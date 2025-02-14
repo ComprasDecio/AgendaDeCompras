@@ -1906,5 +1906,305 @@
         "categoria": "PROTEINAS E MERCEARIA",
         "filial": "OLHOS D'ÁGUA",
         "previsaoEntrega": "21/03/2025"
+      },
+      {
+        "dataAbertura": "01/02/2025",
+        "categoria": "OVOS",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "02/02/2025"
+      },
+      {
+        "dataAbertura": "02/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "GURUPI",
+        "previsaoEntrega": "03/02/2025"
+      },
+      {
+        "dataAbertura": "03/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "04/02/2025"
+      },
+      {
+        "dataAbertura": "04/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "05/02/2025"
+      },
+      {
+        "dataAbertura": "05/02/2025",
+        "categoria": "OVOS",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "06/02/2025"
+      },
+      {
+        "dataAbertura": "06/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "07/02/2025"
+      },
+      {
+        "dataAbertura": "07/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "08/02/2025"
+      },
+      {
+        "dataAbertura": "08/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "GURUPI",
+        "previsaoEntrega": "09/02/2025"
+      },
+      {
+        "dataAbertura": "09/02/2025",
+        "categoria": "OVOS",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "10/02/2025"
+      },
+      {
+        "dataAbertura": "10/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "11/02/2025"
+      },
+      {
+        "dataAbertura": "11/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "12/02/2025"
+      },
+      {
+        "dataAbertura": "12/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "13/02/2025"
+      },
+      {
+        "dataAbertura": "13/02/2025",
+        "categoria": "OVOS",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "14/02/2025"
+      },
+      {
+        "dataAbertura": "14/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "GURUPI",
+        "previsaoEntrega": "15/02/2025"
+      },
+      {
+        "dataAbertura": "15/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "16/02/2025"
+      },
+      {
+        "dataAbertura": "16/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "17/02/2025"
+      },
+      {
+        "dataAbertura": "17/02/2025",
+        "categoria": "OVOS",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "18/02/2025"
+      },
+      {
+        "dataAbertura": "18/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "19/02/2025"
+      },
+      {
+        "dataAbertura": "19/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "20/02/2025"
+      },
+      {
+        "dataAbertura": "20/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "GURUPI",
+        "previsaoEntrega": "21/02/2025"
+      },
+      {
+        "dataAbertura": "21/02/2025",
+        "categoria": "OVOS",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "22/02/2025"
+      },
+      {
+        "dataAbertura": "22/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "23/02/2025"
+      },
+      {
+        "dataAbertura": "23/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "24/02/2025"
+      },
+      {
+        "dataAbertura": "24/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "25/02/2025"
+      },
+      {
+        "dataAbertura": "25/02/2025",
+        "categoria": "OVOS",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "26/02/2025"
+      },
+      {
+        "dataAbertura": "26/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "GURUPI",
+        "previsaoEntrega": "27/02/2025"
+      },
+      {
+        "dataAbertura": "27/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "28/02/2025"
+      },
+      {
+        "dataAbertura": "28/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "01/03/2025"
+      },
+      {
+        "dataAbertura": "01/02/2025",
+        "categoria": "OVOS",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "02/02/2025"
+      },
+      {
+        "dataAbertura": "02/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "03/02/2025"
+      },
+      {
+        "dataAbertura": "03/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "04/02/2025"
+      },
+      {
+        "dataAbertura": "04/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "GURUPI",
+        "previsaoEntrega": "05/02/2025"
+      },
+      {
+        "dataAbertura": "05/02/2025",
+        "categoria": "OVOS",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "06/02/2025"
+      },
+      {
+        "dataAbertura": "06/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "07/02/2025"
+      },
+      {
+        "dataAbertura": "07/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "08/02/2025"
+      },
+      {
+        "dataAbertura": "08/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "09/02/2025"
+      },
+      {
+        "dataAbertura": "09/02/2025",
+        "categoria": "OVOS",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "10/02/2025"
+      },
+      {
+        "dataAbertura": "10/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "GURUPI",
+        "previsaoEntrega": "11/02/2025"
+      },
+      {
+        "dataAbertura": "11/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "12/02/2025"
+      },
+      {
+        "dataAbertura": "12/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "13/02/2025"
+      },
+      {
+        "dataAbertura": "13/02/2025",
+        "categoria": "OVOS",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "14/02/2025"
+      },
+      {
+        "dataAbertura": "14/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "15/02/2025"
+      },
+      {
+        "dataAbertura": "15/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "16/02/2025"
+      },
+      {
+        "dataAbertura": "16/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "GURUPI",
+        "previsaoEntrega": "17/02/2025"
+      },
+      {
+        "dataAbertura": "17/02/2025",
+        "categoria": "OVOS",
+        "filial": "RIO VERDE",
+        "previsaoEntrega": "18/02/2025"
+      },
+      {
+        "dataAbertura": "18/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "UBERLANDIA",
+        "previsaoEntrega": "19/02/2025"
+      },
+      {
+        "dataAbertura": "19/02/2025",
+        "categoria": "MERCEARIA",
+        "filial": "MINEIRO",
+        "previsaoEntrega": "20/02/2025"
+      },
+      {
+        "dataAbertura": "20/02/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "21/02/2025"
+      },
+      {
+        "dataAbertura": "21/02/2025",
+        "categoria": "OVOS",
+        "filial": "ITUIUTABA",
+        "previsaoEntrega": "22/02/2025"
+      },
+      {
+        "dataAbertura": "22/02/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "GURUPI",
+        "previsaoEntrega": "23/02/2025"
       }
     ]

@@ -177,51 +177,46 @@
       border-top: 1px solid #eee;
       margin: 15px 0;
     }
-
     @media (max-width: 600px) {
-  body {
-    padding: 10px;
-  }
-  
-  .calendar {
-    padding: 10px;
-    gap: 3px;
-  }
-  
-  .calendar__day,
-  .calendar__day-header {
-    padding: 8px 0;
-    font-size: 0.8rem;
-  }
-  
-  .navegacao-meses button {
-    padding: 8px 10px;
-    font-size: 0.9rem;
-  }
-  
-  .navegacao-meses span {
-    font-size: 0.9rem;
-  }
-}
+      body {
+        padding: 10px;
+      }
+      
+      .calendar {
+        padding: 10px;
+        gap: 3px;
+      }
+      
+      .calendar__day,
+      .calendar__day-header {
+        padding: 8px 0;
+        font-size: 0.8rem;
+      }
+      
+      .navegacao-meses button {
+        padding: 8px 10px;
+        font-size: 0.9rem;
+      }
+      
+      .navegacao-meses span {
+        font-size: 0.9rem;
+      }
+    }
   </style>
 </head>
 <body>
   <div class="header">
     <img
       src="XKrYcd33yRbS2HlTduA4NZedZMZ6FkAB20urJsfW-removebg-preview.png"
-      alt="Logo da Sua Empresa"
+      alt="Logo Decio"
     />
   </div>
   <h1>Calendário de Compras</h1>
   <!-- Filtro por Unidade -->
   <div class="filtro">
     <label for="unidade">Filtrar por Unidade:</label>
-    <select id="unidade" onchange="filtrarPorUnidade()">
-      <option value="">Todas as Unidades</option>
-      <option value="BURITI">BURITI</option>
-      <option value="OLHOS D'ÁGUA">OLHOS D'ÁGUA</option>
-      <option value="PARADA BONITA">PARADA BONITA</option>
-    </select>
+    <!-- As opções serão geradas dinamicamente -->
+    <select id="unidade" onchange="filtrarPorUnidade()"></select>
   </div>
   
   <!-- Navegação de Meses -->
@@ -267,6 +262,30 @@
         "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"
       ];
       mesAnoDisplay.textContent = `${meses[mesAtual]} ${anoAtual}`;
+    }
+
+    // Função para gerar dinamicamente as opções do filtro de filial
+    function gerarOpcoesFilial() {
+      const selectUnidade = document.getElementById('unidade');
+      // Adiciona a opção padrão
+      selectUnidade.innerHTML = '<option value="">Todas as Unidades</option>';
+      
+      // Extrai os valores únicos da propriedade 'filial' do JSON
+      const unidadesSet = new Set();
+      dados.forEach(item => {
+        if (item.filial) {
+          unidadesSet.add(item.filial);
+        }
+      });
+      // Converte o set em array e ordena (opcional)
+      const unidades = Array.from(unidadesSet).sort();
+      // Cria as opções dinamicamente
+      unidades.forEach(unidade => {
+        const option = document.createElement('option');
+        option.value = unidade;
+        option.textContent = unidade;
+        selectUnidade.appendChild(option);
+      });
     }
 
     // Função para gerar o calendário de forma dinâmica
@@ -421,7 +440,7 @@
       gerarCalendario(unidadeSelecionada);
     }
 
-    // Carrega os dados do JSON e gera o calendário ao carregar a página
+    // Carrega os dados do JSON, gera as opções do filtro e o calendário ao carregar a página
     window.onload = async function () {
       try {
         const response = await fetch('agenda.json');
@@ -429,6 +448,8 @@
           throw new Error(`Erro ao carregar o JSON: ${response.statusText}`);
         }
         dados = await response.json();
+        // Gera dinamicamente as opções do filtro com base nas unidades do JSON
+        gerarOpcoesFilial();
         atualizarTituloMes();
         gerarCalendario();
       } catch (error) {
