@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calendário de Compras</title>
+  <!-- Importação da fonte Roboto para uma aparência corporativa -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    /* Estilização geral */
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f7fa;
+      color: #333;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .header img {
+      max-width: 180px;
+      margin-bottom: 10px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #0056b3;
+      font-weight: 500;
+    }
+    /* Estilização do filtro */
+    .filtro {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .filtro label {
+      font-size: 1rem;
+      margin-right: 10px;
+      font-weight: 500;
+    }
+    .filtro select {
+      padding: 8px 12px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      outline: none;
+      transition: border-color 0.3s ease;
+    }
+    .filtro select:focus {
+      border-color: #0056b3;
+    }
+    /* Estilização do calendário */
+    .calendar {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 5px;
+      width: 100%;
+      max-width: 1000px;
+      margin: 0 auto 30px auto;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      padding: 15px;
+    }
+    .calendar__day-header {
+      background-color: #0056b3;
+      color: #fff;
+      font-weight: 500;
+      padding: 15px 0;
+      border-radius: 4px;
+      text-align: center;
+    }
+    .calendar__day {
+      background-color: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 4px;
+      padding: 15px 0;
+      text-align: center;
+      cursor: pointer;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+      min-height: 70px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .calendar__day.empty {
+      background-color: transparent;
+      border: none;
+      cursor: default;
+    }
+    .calendar__day:hover {
+      background-color: #f0f8ff;
+    }
+    .calendar__day.has-agenda {
+      background-color: #e8f4ff;
+      border-color: #0056b3;
+      font-weight: 500;
+    }
+    .calendar__day.selected {
+      background-color: #cce5ff;
+      border: 2px solid #003d80;
+    }
+    /* Estilização do modal */
+    .modal {
+      display: none; /* Oculto por padrão */
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+    .modal-content {
+      background-color: #fff;
+      margin: 10% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 80%;
+      max-width: 600px;
+      border-radius: 8px;
+      position: relative;
+    }
+    .close {
+      color: #aaa;
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .close:hover,
+    .close:focus {
+      color: #000;
+      text-decoration: none;
+    }
+    .modal-content h2 {
+      text-align: center;
+      margin-bottom: 15px;
+      color: #0056b3;
+    }
+    .modal-content p {
+      margin: 8px 0;
+      font-size: 1rem;
+    }
+    .modal-content hr {
+      border: none;
+      border-top: 1px solid #eee;
+      margin: 15px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img
+      src="XKrYcd33yRbS2HlTduA4NZedZMZ6FkAB20urJsfW-removebg-preview.png"
+      alt="Logo da Sua Empresa"
+    />
+  </div>
+  <h1>Calendário de Compras</h1>
+  <!-- Filtro por Unidade -->
+  <div class="filtro">
+    <label for="unidade">Filtrar por Unidade:</label>
+    <select id="unidade" onchange="filtrarPorUnidade()">
+      <option value="">Todas as Unidades</option>
+      <option value="BURITI">BURITI</option>
+      <option value="OLHOS D'ÁGUA">OLHOS D'ÁGUA</option>
+      <option value="PARADA BONITA">PARADA BONITA</option>
+    </select>
+  </div>
+  <!-- Calendário dinâmico -->
+  <div class="calendar" id="calendar">
+    <!-- O calendário será gerado via JavaScript -->
+  </div>
+
+  <!-- Modal para exibir detalhes -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="fecharModal()">&times;</span>
+      <div id="detailsContent"></div>
+    </div>
+  </div>
+
+  <script>
+    // Variável global para armazenar os dados do JSON
+    let dados = [];
+
+    // Função para formatar a data no formato DD/MM/AAAA
+    function formatarData(data) {
+      const partes = data.split('/');
+      return `${partes[0].padStart(2, '0')}/${partes[1].padStart(2, '0')}/${partes[2]}`;
+    }
+
+    // Define mês e ano atuais
+    let dataAtual = new Date();
+    let mesAtual = dataAtual.getMonth(); // 0-indexado
+    let anoAtual = dataAtual.getFullYear();
+
+    // Função para gerar o calendário de forma dinâmica
+    function gerarCalendario(unidadeSelecionada = '') {
+      const calendarElement = document.getElementById('calendar');
+      calendarElement.innerHTML = '';
+
+      // Cabeçalho dos dias da semana (segunda a domingo)
+      const diasSemana = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
+      diasSemana.forEach((diaNome) => {
+        const headerCell = document.createElement('div');
+        headerCell.classList.add('calendar__day-header');
+        headerCell.textContent = diaNome;
+        calendarElement.appendChild(headerCell);
+      });
+
+      // Número de dias no mês atual
+      const diasNoMes = new Date(anoAtual, mesAtual + 1, 0).getDate();
+
+      // Determina o offset: quantas células vazias antes do dia 1
+      const primeiroDiaJS = new Date(anoAtual, mesAtual, 1).getDay();
+      const offset = primeiroDiaJS === 0 ? 6 : primeiroDiaJS - 1;
+
+      // Cria células vazias para alinhar o primeiro dia
+      for (let i = 0; i < offset; i++) {
+        const emptyCell = document.createElement('div');
+        emptyCell.classList.add('calendar__day', 'empty');
+        calendarElement.appendChild(emptyCell);
+      }
+
+      // Cria as células com os dias do mês
+      for (let dia = 1; dia <= diasNoMes; dia++) {
+        const diaCell = document.createElement('div');
+        diaCell.classList.add('calendar__day');
+        diaCell.textContent = dia;
+        diaCell.setAttribute('onclick', `exibirDetalhes('${dia}')`);
+        calendarElement.appendChild(diaCell);
+      }
+
+      // Filtra os dados do JSON para o mês/ano atuais e filial selecionada (se houver)
+      const comprasFiltradas = dados.filter((item) => {
+        let [diaStr, mesStr, anoStr] = item.dataAbertura.split('/');
+        const mesItem = parseInt(mesStr) - 1;
+        const anoItem = parseInt(anoStr);
+        if (unidadeSelecionada) {
+          return (
+            item.filial === unidadeSelecionada &&
+            mesItem === mesAtual &&
+            anoItem === anoAtual
+          );
+        }
+        return mesItem === mesAtual && anoItem === anoAtual;
+      });
+
+      // Destaca os dias que possuem compras
+      comprasFiltradas.forEach((compra) => {
+        const diaCompra = parseInt(compra.dataAbertura.split('/')[0]);
+        const index = 7 + offset + (diaCompra - 1);
+        const diaElement = calendarElement.children[index];
+        if (diaElement) {
+          diaElement.classList.add('has-agenda');
+        }
+      });
+    }
+
+    // Função para exibir os detalhes em um modal ao clicar em um dia
+    function exibirDetalhes(dia) {
+      const calendarElement = document.getElementById('calendar');
+      const detailsContentElement = document.getElementById('detailsContent');
+
+      // Remove a classe 'selected' de todos os dias
+      const diasElements = calendarElement.querySelectorAll('.calendar__day');
+      diasElements.forEach((element) => element.classList.remove('selected'));
+
+      // Calcula o índice da célula do dia clicado (lembrando dos 7 cabeçalhos e do offset)
+      const primeiroDiaJS = new Date(anoAtual, mesAtual, 1).getDay();
+      const offset = primeiroDiaJS === 0 ? 6 : primeiroDiaJS - 1;
+      const index = 7 + offset + (dia - 1);
+      const diaElement = calendarElement.children[index];
+      if (diaElement) {
+        diaElement.classList.add('selected');
+      }
+
+      // Obtém a filial selecionada, se houver
+      const unidadeSelecionada = document.getElementById('unidade').value;
+
+      // Filtra os dados para o dia, mês e ano atuais (e filial, se selecionada)
+      const comprasDoDia = dados.filter((item) => {
+        let [diaStr, mesStr, anoStr] = item.dataAbertura.split('/');
+        const diaItem = parseInt(diaStr);
+        const mesItem = parseInt(mesStr) - 1;
+        const anoItem = parseInt(anoStr);
+        if (unidadeSelecionada) {
+          return (
+            diaItem === parseInt(dia) &&
+            mesItem === mesAtual &&
+            anoItem === anoAtual &&
+            item.filial === unidadeSelecionada
+          );
+        }
+        return diaItem === parseInt(dia) && mesItem === mesAtual && anoItem === anoAtual;
+      });
+
+      // Monta o HTML dos detalhes
+      const detalhesHTML = comprasDoDia
+        .map(
+          (compra) => `
+        <div>
+          <p><strong>Data de Abertura:</strong> ${formatarData(compra.dataAbertura)}</p>
+          <p><strong>Categoria:</strong> ${compra.categoria}</p>
+          <p><strong>Filial:</strong> ${compra.filial}</p>
+          <p><strong>Previsão de Entrega:</strong> ${formatarData(compra.previsaoEntrega)}</p>
+          <hr>
+        </div>
+      `
+        )
+        .join('');
+
+      detailsContentElement.innerHTML = detalhesHTML;
+
+      // Exibe o modal
+      document.getElementById('modal').style.display = 'block';
+    }
+
+    // Função para fechar o modal
+    function fecharModal() {
+      document.getElementById('modal').style.display = 'none';
+    }
+
+    // Função para filtrar por unidade e regenerar o calendário
+    function filtrarPorUnidade() {
+      const unidadeSelecionada = document.getElementById('unidade').value;
+      gerarCalendario(unidadeSelecionada);
+      const calendarElement = document.getElementById('calendar');
+      const dias = calendarElement.querySelectorAll('.calendar__day');
+      dias.forEach((diaElement) => diaElement.classList.remove('selected'));
+    }
+
+    // Carrega os dados do JSON e gera o calendário ao carregar a página
+    window.onload = async function () {
+      try {
+        const response = await fetch('agenda.json');
+        if (!response.ok) {
+          throw new Error(`Erro ao carregar o JSON: ${response.statusText}`);
+        }
+        dados = await response.json();
+        gerarCalendario();
+      } catch (error) {
+        console.error('Erro ao carregar os dados:', error);
+        alert('Erro ao carregar os dados. Verifique o console para mais detalhes.');
+      }
+    };
+  </script>
+</body>
+</html>

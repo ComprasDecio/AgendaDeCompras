@@ -1,0 +1,23 @@
+
+[
+    { "dataAbertura": "03/02/2025", "categoria": "Categoria A", "filial": "BURITI", "previsaoEntrega": "04/02/2025" },
+    { "dataAbertura": "06/02/2025", "categoria": "Categoria B", "filial": "BURITI", "previsaoEntrega": "07/02/2025" },
+    { "dataAbertura": "10/02/2025", "categoria": "Categoria C", "filial": "BURITI", "previsaoEntrega": "11/02/2025" },
+    { "dataAbertura": "13/02/2025", "categoria": "Categoria D", "filial": "BURITI", "previsaoEntrega": "14/02/2025" },
+    { "dataAbertura": "17/02/2025", "categoria": "Categoria E", "filial": "BURITI", "previsaoEntrega": "18/02/2025" },
+    { "dataAbertura": "20/02/2025", "categoria": "Categoria F", "filial": "BURITI", "previsaoEntrega": "21/02/2025" },
+    { "dataAbertura": "24/02/2025", "categoria": "Categoria G", "filial": "BURITI", "previsaoEntrega": "25/02/2025" },
+    { "dataAbertura": "27/02/2025", "categoria": "Categoria H", "filial": "BURITI", "previsaoEntrega": "28/02/2025" },
+    { "dataAbertura": "03/02/2025", "categoria": "Categoria I", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "04/02/2025" },
+    { "dataAbertura": "06/02/2025", "categoria": "Categoria J", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "07/02/2025" },
+    { "dataAbertura": "10/02/2025", "categoria": "Categoria K", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "11/02/2025" },
+    { "dataAbertura": "13/02/2025", "categoria": "Categoria L", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "14/02/2025" },
+    { "dataAbertura": "17/02/2025", "categoria": "Categoria M", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "18/02/2025" },
+    { "dataAbertura": "20/02/2025", "categoria": "Categoria N", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "21/02/2025" },
+    { "dataAbertura": "24/02/2025", "categoria": "Categoria O", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "25/02/2025" },
+    { "dataAbertura": "27/02/2025", "categoria": "Categoria P", "filial": "OLHOS D'ÁGUA", "previsaoEntrega": "28/02/2025" },
+    { "dataAbertura": "03/02/2025", "categoria": "Categoria Q", "filial": "PARADA BONITA", "previsaoEntrega": "04/02/2025" },
+    { "dataAbertura": "05/02/2025", "categoria": "Categoria R", "filial": "PARADA BONITA", "previsaoEntrega": "06/02/2025" },
+    { "dataAbertura": "07/02/2025", "categoria": "Categoria S", "filial": "PARADA BONITA", "previsaoEntrega": "08/02/2025" },
+    { "dataAbertura": "10/02/2025", "categoria": "Categoria T", "filial": "PARADA BONITA", "previsaoEntrega": "11/02/2025" }
+]
