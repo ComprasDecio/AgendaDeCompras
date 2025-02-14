@@ -1,1610 +1,1610 @@
 [
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-GELADEIRAS",
         "filial":"BURITI",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-CAIXA DE COZINHA",
         "filial":"BURITI",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
-        "categoria":"AUTO-CLIMATIZADORES\/RODOAR",
+        "dataAbertura":"03/02/2025",
+        "categoria":"AUTO-CLIMATIZADORES/RODOAR",
         "filial":"BURITI",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-PECAS AR CONDICIONADO",
         "filial":"BURITI",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1735862400000,
+        "dataAbertura":"03/01/2025",
         "categoria":"VAR-FOGOES",
         "filial":"BURITI",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-AROMATIZANTES",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
-        "categoria":"QUIM-COLAS\/SILIC\/FITAS\/CERAS",
+        "dataAbertura":"10/02/2025",
+        "categoria":"QUIM-COLAS/SILIC/FITAS/CERAS",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-PRODUTOS LIMPEZA",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-PRODUTOS QUIMICOS",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
-        "categoria":"CAMA\/MESA\/BANHO",
+        "dataAbertura":"10/02/2025",
+        "categoria":"CAMA/MESA/BANHO",
         "filial":"BURITI",
-        "previsaoEntrega":1743033600000
+        "previsaoEntrega":"27/03/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"AUTO-PALHETAS",
         "filial":"BURITI",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PALHETAS",
         "filial":"BURITI",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-CORDAS\/CINTAS\/GANCHOS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-CORDAS/CINTAS/GANCHOS",
         "filial":"BURITI",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-RETROVISORES\/VIDROS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-RETROVISORES/VIDROS",
         "filial":"BURITI",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ESCAPAMENTO\/ESCADAS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ESCAPAMENTO/ESCADAS",
         "filial":"BURITI",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-CALHAS\/AEROFOLIO\/RESERV",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-CALHAS/AEROFOLIO/RESERV",
         "filial":"BURITI",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ADESIVOS\/EMBLEMAS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ADESIVOS/EMBLEMAS",
         "filial":"BURITI",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ACESSORIOS P\/TAPECARIA",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ACESSORIOS P/TAPECARIA",
         "filial":"BURITI",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-FIXACAO\/ENGATE\/ABRAC",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-FIXACAO/ENGATE/ABRAC",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-FREIO\/FLEX\/CRUZETA\/CARDAN",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-FREIO/FLEX/CRUZETA/CARDAN",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-JUNTAS\/REPAROS\/RETENTOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-JUNTAS/REPAROS/RETENTOR",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-MANGUEIRAS\/RADIADOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-MANGUEIRAS/RADIADOR",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PORTA MECANISMO",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-RACOR\/TANQ\/ROTAT\/CARTER",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-RACOR/TANQ/ROTAT/CARTER",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-ROLAMENTO",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-VALVULAS",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-VELOCIMETRO\/TACOGRAFO",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-VELOCIMETRO/TACOGRAFO",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-PNEU\/RODAS\/CALOTAS\/ CAPA PORCA",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-PNEU/RODAS/CALOTAS/ CAPA PORCA",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-SUSPENSAO\/AMORTECEDOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-SUSPENSAO/AMORTECEDOR",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PARTES INTERNAS CABINE",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-SUPORTES",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-ACESSORIOS DIVERSOS",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-SOM\/INVERSOR\/PX",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-SOM/INVERSOR/PX",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-TAMPAS",
         "filial":"BURITI",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"ARTIGOS DE CASA( panelas)",
         "filial":"BURITI",
-        "previsaoEntrega":1743120000000
+        "previsaoEntrega":"28/03/2025"
     },
     {
-        "dataAbertura":1736467200000,
+        "dataAbertura":"10/01/2025",
         "categoria":"AUTO-BATERIAS",
         "filial":"BURITI",
-        "previsaoEntrega":1737763200000
+        "previsaoEntrega":"25/01/2025"
     },
     {
-        "dataAbertura":1737676800000,
+        "dataAbertura":"24/01/2025",
         "categoria":"AUTO-BATERIAS",
         "filial":"BURITI",
-        "previsaoEntrega":1738972800000
+        "previsaoEntrega":"08/02/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"AUTO-LAMPADAS",
         "filial":"BURITI",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
-        "categoria":"AUTO-LANTERNAS\/FAROL\/LENTES",
+        "dataAbertura":"26/02/2025",
+        "categoria":"AUTO-LANTERNAS/FAROL/LENTES",
         "filial":"BURITI",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"AUTO-PECAS ELETRICAS",
         "filial":"BURITI",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-CADEADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-CADEADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
-        "categoria":"VAR-GFA\/BOLSA\/CAIXA TERMICA",
+        "dataAbertura":"07/02/2025",
+        "categoria":"VAR-GFA/BOLSA/CAIXA TERMICA",
         "filial":"BURITI",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
-        "categoria":"VAR-GFA\/BOLSA\/CAIXA TERMICA",
+        "dataAbertura":"21/02/2025",
+        "categoria":"VAR-GFA/BOLSA/CAIXA TERMICA",
         "filial":"BURITI",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
-        "categoria":"VAR-LANTERNAS\/BATERIAS\/PILHAS",
+        "dataAbertura":"07/02/2025",
+        "categoria":"VAR-LANTERNAS/BATERIAS/PILHAS",
         "filial":"BURITI",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
-        "categoria":"VAR-LANTERNAS\/BATERIAS\/PILHAS",
+        "dataAbertura":"21/02/2025",
+        "categoria":"VAR-LANTERNAS/BATERIAS/PILHAS",
         "filial":"BURITI",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-HIGIENE PESSOAL",
         "filial":"BURITI",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-HIGIENE PESSOAL",
         "filial":"BURITI",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-FERRAMENTAS",
         "filial":"BURITI",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-FERRAMENTAS",
         "filial":"BURITI",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"MERCEARIA",
         "filial":"BURITI",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"MERCEARIA",
         "filial":"BURITI",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-GELADEIRAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-CAIXA DE COZINHA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
-        "categoria":"AUTO-CLIMATIZADORES\/RODOAR",
+        "dataAbertura":"03/02/2025",
+        "categoria":"AUTO-CLIMATIZADORES/RODOAR",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-PECAS AR CONDICIONADO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1735862400000,
+        "dataAbertura":"03/01/2025",
         "categoria":"VAR-FOGOES",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-AROMATIZANTES",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
-        "categoria":"QUIM-COLAS\/SILIC\/FITAS\/CERAS",
+        "dataAbertura":"10/02/2025",
+        "categoria":"QUIM-COLAS/SILIC/FITAS/CERAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-PRODUTOS LIMPEZA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-PRODUTOS QUIMICOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
-        "categoria":"CAMA\/MESA\/BANHO",
+        "dataAbertura":"10/02/2025",
+        "categoria":"CAMA/MESA/BANHO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1743033600000
+        "previsaoEntrega":"27/03/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"AUTO-PALHETAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PALHETAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-CORDAS\/CINTAS\/GANCHOS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-CORDAS/CINTAS/GANCHOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-RETROVISORES\/VIDROS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-RETROVISORES/VIDROS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ESCAPAMENTO\/ESCADAS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ESCAPAMENTO/ESCADAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-CALHAS\/AEROFOLIO\/RESERV",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-CALHAS/AEROFOLIO/RESERV",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ADESIVOS\/EMBLEMAS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ADESIVOS/EMBLEMAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ACESSORIOS P\/TAPECARIA",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ACESSORIOS P/TAPECARIA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-FIXACAO\/ENGATE\/ABRAC",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-FIXACAO/ENGATE/ABRAC",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-FREIO\/FLEX\/CRUZETA\/CARDAN",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-FREIO/FLEX/CRUZETA/CARDAN",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-JUNTAS\/REPAROS\/RETENTOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-JUNTAS/REPAROS/RETENTOR",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-MANGUEIRAS\/RADIADOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-MANGUEIRAS/RADIADOR",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PORTA MECANISMO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-RACOR\/TANQ\/ROTAT\/CARTER",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-RACOR/TANQ/ROTAT/CARTER",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-ROLAMENTO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-VALVULAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-VELOCIMETRO\/TACOGRAFO",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-VELOCIMETRO/TACOGRAFO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-PNEU\/RODAS\/CALOTAS\/ CAPA PORCA",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-PNEU/RODAS/CALOTAS/ CAPA PORCA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-SUSPENSAO\/AMORTECEDOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-SUSPENSAO/AMORTECEDOR",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PARTES INTERNAS CABINE",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-SUPORTES",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-ACESSORIOS DIVERSOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-SOM\/INVERSOR\/PX",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-SOM/INVERSOR/PX",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-TAMPAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"ARTIGOS DE CASA( panelas)",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1743120000000
+        "previsaoEntrega":"28/03/2025"
     },
     {
-        "dataAbertura":1736467200000,
+        "dataAbertura":"10/01/2025",
         "categoria":"AUTO-BATERIAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1737763200000
+        "previsaoEntrega":"25/01/2025"
     },
     {
-        "dataAbertura":1737676800000,
+        "dataAbertura":"24/01/2025",
         "categoria":"AUTO-BATERIAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738972800000
+        "previsaoEntrega":"08/02/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"AUTO-LAMPADAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
-        "categoria":"AUTO-LANTERNAS\/FAROL\/LENTES",
+        "dataAbertura":"26/02/2025",
+        "categoria":"AUTO-LANTERNAS/FAROL/LENTES",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"AUTO-PECAS ELETRICAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-CADEADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-CADEADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
-        "categoria":"VAR-GFA\/BOLSA\/CAIXA TERMICA",
+        "dataAbertura":"07/02/2025",
+        "categoria":"VAR-GFA/BOLSA/CAIXA TERMICA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
-        "categoria":"VAR-GFA\/BOLSA\/CAIXA TERMICA",
+        "dataAbertura":"21/02/2025",
+        "categoria":"VAR-GFA/BOLSA/CAIXA TERMICA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
-        "categoria":"VAR-LANTERNAS\/BATERIAS\/PILHAS",
+        "dataAbertura":"07/02/2025",
+        "categoria":"VAR-LANTERNAS/BATERIAS/PILHAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
-        "categoria":"VAR-LANTERNAS\/BATERIAS\/PILHAS",
+        "dataAbertura":"21/02/2025",
+        "categoria":"VAR-LANTERNAS/BATERIAS/PILHAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-HIGIENE PESSOAL",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-HIGIENE PESSOAL",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-FERRAMENTAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-FERRAMENTAS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"MERCEARIA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"MERCEARIA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-GELADEIRAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-CAIXA DE COZINHA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
-        "categoria":"AUTO-CLIMATIZADORES\/RODOAR",
+        "dataAbertura":"03/02/2025",
+        "categoria":"AUTO-CLIMATIZADORES/RODOAR",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"AUTO-PECAS AR CONDICIONADO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1742428800000
+        "previsaoEntrega":"20/03/2025"
     },
     {
-        "dataAbertura":1735862400000,
+        "dataAbertura":"03/01/2025",
         "categoria":"VAR-FOGOES",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-AROMATIZANTES",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
-        "categoria":"QUIM-COLAS\/SILIC\/FITAS\/CERAS",
+        "dataAbertura":"10/02/2025",
+        "categoria":"QUIM-COLAS/SILIC/FITAS/CERAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-PRODUTOS LIMPEZA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"QUIM-PRODUTOS QUIMICOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
-        "categoria":"CAMA\/MESA\/BANHO",
+        "dataAbertura":"10/02/2025",
+        "categoria":"CAMA/MESA/BANHO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1743033600000
+        "previsaoEntrega":"27/03/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"AUTO-PALHETAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PALHETAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-CORDAS\/CINTAS\/GANCHOS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-CORDAS/CINTAS/GANCHOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-RETROVISORES\/VIDROS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-RETROVISORES/VIDROS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ESCAPAMENTO\/ESCADAS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ESCAPAMENTO/ESCADAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-CALHAS\/AEROFOLIO\/RESERV",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-CALHAS/AEROFOLIO/RESERV",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ADESIVOS\/EMBLEMAS",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ADESIVOS/EMBLEMAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1739750400000,
-        "categoria":"AUTO-ACESSORIOS P\/TAPECARIA",
+        "dataAbertura":"17/02/2025",
+        "categoria":"AUTO-ACESSORIOS P/TAPECARIA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741219200000
+        "previsaoEntrega":"06/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-FIXACAO\/ENGATE\/ABRAC",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-FIXACAO/ENGATE/ABRAC",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-FREIO\/FLEX\/CRUZETA\/CARDAN",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-FREIO/FLEX/CRUZETA/CARDAN",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-JUNTAS\/REPAROS\/RETENTOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-JUNTAS/REPAROS/RETENTOR",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-MANGUEIRAS\/RADIADOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-MANGUEIRAS/RADIADOR",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PORTA MECANISMO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-RACOR\/TANQ\/ROTAT\/CARTER",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-RACOR/TANQ/ROTAT/CARTER",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-ROLAMENTO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-VALVULAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-VELOCIMETRO\/TACOGRAFO",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-VELOCIMETRO/TACOGRAFO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-PNEU\/RODAS\/CALOTAS\/ CAPA PORCA",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-PNEU/RODAS/CALOTAS/ CAPA PORCA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-SUSPENSAO\/AMORTECEDOR",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-SUSPENSAO/AMORTECEDOR",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-PARTES INTERNAS CABINE",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-SUPORTES",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-ACESSORIOS DIVERSOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
-        "categoria":"AUTO-SOM\/INVERSOR\/PX",
+        "dataAbertura":"24/02/2025",
+        "categoria":"AUTO-SOM/INVERSOR/PX",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"AUTO-TAMPAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741824000000
+        "previsaoEntrega":"13/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"ARTIGOS DE CASA( panelas)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1743120000000
+        "previsaoEntrega":"28/03/2025"
     },
     {
-        "dataAbertura":1736467200000,
+        "dataAbertura":"10/01/2025",
         "categoria":"AUTO-BATERIAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1737763200000
+        "previsaoEntrega":"25/01/2025"
     },
     {
-        "dataAbertura":1737676800000,
+        "dataAbertura":"24/01/2025",
         "categoria":"AUTO-BATERIAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738972800000
+        "previsaoEntrega":"08/02/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"AUTO-LAMPADAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
-        "categoria":"AUTO-LANTERNAS\/FAROL\/LENTES",
+        "dataAbertura":"26/02/2025",
+        "categoria":"AUTO-LANTERNAS/FAROL/LENTES",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"AUTO-PECAS ELETRICAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741910400000
+        "previsaoEntrega":"14/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-CADEADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-CADEADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
-        "categoria":"VAR-GFA\/BOLSA\/CAIXA TERMICA",
+        "dataAbertura":"07/02/2025",
+        "categoria":"VAR-GFA/BOLSA/CAIXA TERMICA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
-        "categoria":"VAR-GFA\/BOLSA\/CAIXA TERMICA",
+        "dataAbertura":"21/02/2025",
+        "categoria":"VAR-GFA/BOLSA/CAIXA TERMICA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
-        "categoria":"VAR-LANTERNAS\/BATERIAS\/PILHAS",
+        "dataAbertura":"07/02/2025",
+        "categoria":"VAR-LANTERNAS/BATERIAS/PILHAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
-        "categoria":"VAR-LANTERNAS\/BATERIAS\/PILHAS",
+        "dataAbertura":"21/02/2025",
+        "categoria":"VAR-LANTERNAS/BATERIAS/PILHAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-HIGIENE PESSOAL",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-HIGIENE PESSOAL",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"VAR-FERRAMENTAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"VAR-FERRAMENTAS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"MERCEARIA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"MERCEARIA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"BURITI",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738713600000,
+        "dataAbertura":"05/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738800000000
+        "previsaoEntrega":"06/02/2025"
     },
     {
-        "dataAbertura":1738886400000,
+        "dataAbertura":"07/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738972800000
+        "previsaoEntrega":"08/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739318400000,
+        "dataAbertura":"12/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739404800000
+        "previsaoEntrega":"13/02/2025"
     },
     {
-        "dataAbertura":1739491200000,
+        "dataAbertura":"14/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739577600000
+        "previsaoEntrega":"15/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1739923200000,
+        "dataAbertura":"19/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1740096000000,
+        "dataAbertura":"21/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740182400000
+        "previsaoEntrega":"22/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740528000000,
+        "dataAbertura":"26/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740614400000
+        "previsaoEntrega":"27/02/2025"
     },
     {
-        "dataAbertura":1740700800000,
+        "dataAbertura":"28/02/2025",
         "categoria":"HORTIFRUTI",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740787200000
+        "previsaoEntrega":"01/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"SALGADOS",
         "filial":"BURITI",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"SALGADOS",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"SALGADOS",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"BURITI",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738800000000
+        "previsaoEntrega":"06/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739404800000
+        "previsaoEntrega":"13/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740009600000
+        "previsaoEntrega":"20/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"PANIFICAÇÕES (PÃES DE QUEIJO E PÃO FRANCêS)",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740614400000
+        "previsaoEntrega":"27/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"OVO",
         "filial":"BURITI",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1738800000000,
+        "dataAbertura":"06/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1738886400000
+        "previsaoEntrega":"07/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739404800000,
+        "dataAbertura":"13/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739491200000
+        "previsaoEntrega":"14/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740009600000,
+        "dataAbertura":"20/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740096000000
+        "previsaoEntrega":"21/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1740614400000,
+        "dataAbertura":"27/02/2025",
         "categoria":"OVO",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740700800000
+        "previsaoEntrega":"28/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"OVO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1738627200000
+        "previsaoEntrega":"04/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"OVO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739232000000
+        "previsaoEntrega":"11/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"OVO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739836800000
+        "previsaoEntrega":"18/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"OVO",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740441600000
+        "previsaoEntrega":"25/02/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"BURITI",
-        "previsaoEntrega":1739145600000
+        "previsaoEntrega":"10/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"BURITI",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"BURITI",
-        "previsaoEntrega":1740355200000
+        "previsaoEntrega":"24/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"BURITI",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738540800000,
+        "dataAbertura":"03/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739145600000
+        "previsaoEntrega":"10/02/2025"
     },
     {
-        "dataAbertura":1739145600000,
+        "dataAbertura":"10/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739750400000
+        "previsaoEntrega":"17/02/2025"
     },
     {
-        "dataAbertura":1739750400000,
+        "dataAbertura":"17/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740355200000
+        "previsaoEntrega":"24/02/2025"
     },
     {
-        "dataAbertura":1740355200000,
+        "dataAbertura":"24/02/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740960000000
+        "previsaoEntrega":"03/03/2025"
     },
     {
-        "dataAbertura":1738713600000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"05/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"BURITI",
-        "previsaoEntrega":1739318400000
+        "previsaoEntrega":"12/02/2025"
     },
     {
-        "dataAbertura":1739318400000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"12/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"BURITI",
-        "previsaoEntrega":1739923200000
+        "previsaoEntrega":"19/02/2025"
     },
     {
-        "dataAbertura":1739923200000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"19/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"BURITI",
-        "previsaoEntrega":1740528000000
+        "previsaoEntrega":"26/02/2025"
     },
     {
-        "dataAbertura":1740528000000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"26/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"BURITI",
-        "previsaoEntrega":1741132800000
+        "previsaoEntrega":"05/03/2025"
     },
     {
-        "dataAbertura":1738713600000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"05/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739318400000
+        "previsaoEntrega":"12/02/2025"
     },
     {
-        "dataAbertura":1739318400000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"12/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1739923200000
+        "previsaoEntrega":"19/02/2025"
     },
     {
-        "dataAbertura":1739923200000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"19/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1740528000000
+        "previsaoEntrega":"26/02/2025"
     },
     {
-        "dataAbertura":1740528000000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"26/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"OLHOS D'ÁGUA",
-        "previsaoEntrega":1741132800000
+        "previsaoEntrega":"05/03/2025"
     },
     {
-        "dataAbertura":1738713600000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"05/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739318400000
+        "previsaoEntrega":"12/02/2025"
     },
     {
-        "dataAbertura":1739318400000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"12/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1739923200000
+        "previsaoEntrega":"19/02/2025"
     },
     {
-        "dataAbertura":1739923200000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"19/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1740528000000
+        "previsaoEntrega":"26/02/2025"
     },
     {
-        "dataAbertura":1740528000000,
-        "categoria":"SECOS \/ MERCEARIA \/ CONFEITARIA",
+        "dataAbertura":"26/02/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"PARADA BONITA",
-        "previsaoEntrega":1741132800000
+        "previsaoEntrega":"05/03/2025"
     }
 ]
