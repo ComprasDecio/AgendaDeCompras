@@ -1,6 +1,6 @@
-Documentação do Projeto: Calendário de Compras
+<b>Documentação do Projeto: Calendário de Compras
 Visão Geral
-Este projeto tem como objetivo substituir uma planilha de "agenda de compras" por uma interface web mais visual e intuitiva. Com ele, os usuários (unidades) podem filtrar os dados por sua respectiva unidade e visualizar, de forma consolidada, as solicitações de compras diárias. O front-end é desenvolvido com HTML, CSS e JavaScript, enquanto os dados são carregados a partir de um arquivo JSON (gerado via um script Python que converte uma planilha do Excel para JSON).
+Este projeto tem como objetivo substituir uma planilha de "agenda de compras" por uma interface web mais visual e intuitiva. Com ele, os usuários (unidades) podem filtrar os dados por sua respectiva unidade e visualizar, de forma consolidada, as solicitações de compras diárias. O front-end é desenvolvido com HTML, CSS e JavaScript, enquanto os dados são carregados a partir de um arquivo JSON (gerado via um script Python que converte uma planilha do Excel para JSON).</b>
 
 Estrutura do Código
 1. HTML
