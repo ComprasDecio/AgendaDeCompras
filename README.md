@@ -65,6 +65,4 @@ O código está dividido nas seguintes partes:
 - **Experiência do Usuário**:  
   A interface intuitiva e o uso de modais melhoram a experiência em comparação com a antiga planilha.
 
----
 
-*Este README pode ser complementado com instruções de instalação, requisitos do sistema e exemplos de uso, conforme a necessidade do projeto.*
