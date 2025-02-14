@@ -2,9 +2,9 @@
 Visão Geral
 Este projeto tem como objetivo substituir uma planilha de "agenda de compras" por uma interface web mais visual e intuitiva. Com ele, os usuários (unidades) podem filtrar os dados por sua respectiva unidade e visualizar, de forma consolidada, as solicitações de compras diárias. O front-end é desenvolvido com HTML, CSS e JavaScript, enquanto os dados são carregados a partir de um arquivo JSON (gerado via um script Python que converte uma planilha do Excel para JSON).</b>
 
-Estrutura do Código
+<b>Estrutura do Código
 1. HTML
-Cabeçalho (<head>):
+Cabeçalho (<head>):</b>
 
 Define a codificação (UTF-8) e a responsividade.
 Importa a fonte Roboto do Google Fonts.
@@ -17,14 +17,14 @@ Filtro por Unidade: Um <select> que permite filtrar os dados com base na unidade
 Navegação de Meses: Botões para avançar ou retroceder o mês e um elemento <span> para exibir o mês/ano atual.
 Calendário: Um <div> com a classe calendar que será preenchido dinamicamente via JavaScript com os dias do mês.
 Modal: Um modal para exibir os detalhes de cada dia quando clicado.
-2. CSS
+<b>2. CSS</b>
 Estilos Gerais: Define o layout, cores, espaçamentos e tipografia utilizando a fonte Roboto.
 Estilização do Filtro e Navegação de Meses: Define estilos para os elementos de filtro e botões de navegação.
 Estilização do Calendário:
 Utiliza grid layout para distribuir os dias da semana e os dias do mês.
 Destaca células com compras (classe .has-agenda) e o dia selecionado (classe .selected).
 Modal: Estilos para exibir o modal centralizado na tela e o botão de fechar.
-3. JavaScript
+<b>3. JavaScript</b>
 Variáveis Globais:
 dados: Array que armazenará os dados carregados do arquivo JSON.
 dataAtual, mesAtual e anoAtual: Variáveis para gerenciar a data atual e atualizar a visualização do calendário.
@@ -33,7 +33,7 @@ formatarData(data)
 Formata uma data do formato D/M/AAAA para DD/MM/AAAA.
 Exemplo de uso:
 
-js
+<b>js</b>
 Copiar
 formatarData("5/9/2025"); // retorna "05/09/2025"
 atualizarTituloMes()
@@ -93,21 +93,21 @@ Visualização de Detalhes: Ao clicar em um dia, o sistema exibe um modal com os
 Fechamento do Modal:
 O usuário pode fechar o modal clicando no "X" ou fora da área de conteúdo, retornando à visualização do calendário.
 
-Tecnologias Utilizadas
+<b>Tecnologias Utilizadas</b>
 Front-end:
 
-HTML5: Estrutura e semântica da página.
+<b>HTML5: Estrutura e semântica da página.
 CSS3: Estilização e responsividade da interface.
 JavaScript (ES6): Lógica para manipulação do DOM, interação com o usuário e consumo de dados do JSON.
-Back-end / Suporte:
+Back-end / Suporte:</b>
 
-Arquivo JSON: Dados gerados via script Python que converte a planilha Excel para JSON. Este JSON contém informações como data de abertura, categoria, filial e previsão de entrega das compras.
+<b>Arquivo JSON</b>: Dados gerados via script Python que converte a planilha Excel para JSON. Este JSON contém informações como data de abertura, categoria, filial e previsão de entrega das compras.
 Considerações Finais
-Manutenção:
+<b>Manutenção:</b>
 A documentação interna e a organização das funções facilitam a manutenção e futuras atualizações do sistema.
 
-Extensibilidade:
+<b>Extensibilidade:</b>
 O sistema pode ser expandido para incluir mais filtros ou funcionalidades, bastando adicionar novas funções e atualizar a interface conforme necessário.
 
-Experiência do Usuário:
+<b>Experiência do Usuário:</b>
 O uso de um modal para detalhes e a navegação intuitiva entre os meses melhoram significativamente a experiência dos usuários em comparação com a planilha antiga.
