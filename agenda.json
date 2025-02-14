@@ -1606,5 +1606,305 @@
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"PARADA BONITA",
         "previsaoEntrega":"05/03/2025"
-    }
-]
+    },
+    {
+        "dataAbertura": "01/03/2025",
+        "categoria": "OVOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "02/03/2025"
+      },
+      {
+        "dataAbertura": "02/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "03/03/2025"
+      },
+      {
+        "dataAbertura": "03/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "04/03/2025"
+      },
+      {
+        "dataAbertura": "04/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "05/03/2025"
+      },
+      {
+        "dataAbertura": "05/03/2025",
+        "categoria": "OVOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "06/03/2025"
+      },
+      {
+        "dataAbertura": "06/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "07/03/2025"
+      },
+      {
+        "dataAbertura": "07/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "08/03/2025"
+      },
+      {
+        "dataAbertura": "08/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "09/03/2025"
+      },
+      {
+        "dataAbertura": "09/03/2025",
+        "categoria": "OVOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "10/03/2025"
+      },
+      {
+        "dataAbertura": "10/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "11/03/2025"
+      },
+      {
+        "dataAbertura": "11/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "12/03/2025"
+      },
+      {
+        "dataAbertura": "12/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "13/03/2025"
+      },
+      {
+        "dataAbertura": "13/03/2025",
+        "categoria": "OVOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "14/03/2025"
+      },
+      {
+        "dataAbertura": "14/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "15/03/2025"
+      },
+      {
+        "dataAbertura": "15/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "16/03/2025"
+      },
+      {
+        "dataAbertura": "16/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "17/03/2025"
+      },
+      {
+        "dataAbertura": "17/03/2025",
+        "categoria": "OVOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "18/03/2025"
+      },
+      {
+        "dataAbertura": "18/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "19/03/2025"
+      },
+      {
+        "dataAbertura": "19/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "20/03/2025"
+      },
+      {
+        "dataAbertura": "20/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "21/03/2025"
+      },
+      {
+        "dataAbertura": "21/03/2025",
+        "categoria": "OVOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "22/03/2025"
+      },
+      {
+        "dataAbertura": "22/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "23/03/2025"
+      },
+      {
+        "dataAbertura": "23/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "24/03/2025"
+      },
+      {
+        "dataAbertura": "24/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "25/03/2025"
+      },
+      {
+        "dataAbertura": "25/03/2025",
+        "categoria": "OVOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "26/03/2025"
+      },
+      {
+        "dataAbertura": "26/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "27/03/2025"
+      },
+      {
+        "dataAbertura": "27/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "28/03/2025"
+      },
+      {
+        "dataAbertura": "28/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "29/03/2025"
+      },
+      {
+        "dataAbertura": "29/03/2025",
+        "categoria": "OVOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "30/03/2025"
+      },
+      {
+        "dataAbertura": "30/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "31/03/2025"
+      },
+      {
+        "dataAbertura": "01/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "02/03/2025"
+      },
+      {
+        "dataAbertura": "02/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "03/03/2025"
+      },
+      {
+        "dataAbertura": "03/03/2025",
+        "categoria": "OVOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "04/03/2025"
+      },
+      {
+        "dataAbertura": "04/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "05/03/2025"
+      },
+      {
+        "dataAbertura": "05/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "06/03/2025"
+      },
+      {
+        "dataAbertura": "06/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "07/03/2025"
+      },
+      {
+        "dataAbertura": "07/03/2025",
+        "categoria": "OVOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "08/03/2025"
+      },
+      {
+        "dataAbertura": "08/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "09/03/2025"
+      },
+      {
+        "dataAbertura": "09/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "10/03/2025"
+      },
+      {
+        "dataAbertura": "10/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "11/03/2025"
+      },
+      {
+        "dataAbertura": "11/03/2025",
+        "categoria": "OVOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "12/03/2025"
+      },
+      {
+        "dataAbertura": "12/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "13/03/2025"
+      },
+      {
+        "dataAbertura": "13/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "14/03/2025"
+      },
+      {
+        "dataAbertura": "14/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "15/03/2025"
+      },
+      {
+        "dataAbertura": "15/03/2025",
+        "categoria": "OVOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "16/03/2025"
+      },
+      {
+        "dataAbertura": "16/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "BURITI",
+        "previsaoEntrega": "17/03/2025"
+      },
+      {
+        "dataAbertura": "17/03/2025",
+        "categoria": "MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "18/03/2025"
+      },
+      {
+        "dataAbertura": "18/03/2025",
+        "categoria": "ADTIVIOS",
+        "filial": "PARADA BONITA",
+        "previsaoEntrega": "19/03/2025"
+      },
+      {
+        "dataAbertura": "19/03/2025",
+        "categoria": "OVOS",
+        "filial": "BURITI",
+        "previsaoEntrega": "20/03/2025"
+      },
+      {
+        "dataAbertura": "20/03/2025",
+        "categoria": "PROTEINAS E MERCEARIA",
+        "filial": "OLHOS D'ÁGUA",
+        "previsaoEntrega": "21/03/2025"
+      }
+    ]

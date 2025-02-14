@@ -55,6 +55,26 @@
     .filtro select:focus {
       border-color: #0056b3;
     }
+    /* Estilização da navegação de meses */
+    .navegacao-meses {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .navegacao-meses button {
+      background-color: #0056b3;
+      color: #fff;
+      border: none;
+      padding: 10px 15px;
+      margin: 0 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 500;
+    }
+    .navegacao-meses button:hover {
+      background-color: #003d80;
+    }
     /* Estilização do calendário */
     .calendar {
       display: grid;
@@ -177,6 +197,14 @@
       <option value="PARADA BONITA">PARADA BONITA</option>
     </select>
   </div>
+  
+  <!-- Navegação de Meses -->
+  <div class="navegacao-meses">
+    <button onclick="mudarMes(-1)">Mês Anterior</button>
+    <span id="mesAnoDisplay"></span>
+    <button onclick="mudarMes(1)">Próximo Mês</button>
+  </div>
+
   <!-- Calendário dinâmico -->
   <div class="calendar" id="calendar">
     <!-- O calendário será gerado via JavaScript -->
@@ -204,6 +232,16 @@
     let dataAtual = new Date();
     let mesAtual = dataAtual.getMonth(); // 0-indexado
     let anoAtual = dataAtual.getFullYear();
+
+    // Função para atualizar o título com o mês e ano atuais
+    function atualizarTituloMes() {
+      const mesAnoDisplay = document.getElementById('mesAnoDisplay');
+      const meses = [
+        "Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho",
+        "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"
+      ];
+      mesAnoDisplay.textContent = `${meses[mesAtual]} ${anoAtual}`;
+    }
 
     // Função para gerar o calendário de forma dinâmica
     function gerarCalendario(unidadeSelecionada = '') {
@@ -341,6 +379,22 @@
       dias.forEach((diaElement) => diaElement.classList.remove('selected'));
     }
 
+    // Função para mudar o mês (direção: -1 para anterior, 1 para próximo)
+    function mudarMes(direcao) {
+      mesAtual += direcao;
+      if (mesAtual < 0) {
+        mesAtual = 11;
+        anoAtual -= 1;
+      } else if (mesAtual > 11) {
+        mesAtual = 0;
+        anoAtual += 1;
+      }
+      atualizarTituloMes();
+      // Reaplica o filtro caso alguma filial esteja selecionada
+      const unidadeSelecionada = document.getElementById('unidade').value;
+      gerarCalendario(unidadeSelecionada);
+    }
+
     // Carrega os dados do JSON e gera o calendário ao carregar a página
     window.onload = async function () {
       try {
@@ -349,6 +403,7 @@
           throw new Error(`Erro ao carregar o JSON: ${response.statusText}`);
         }
         dados = await response.json();
+        atualizarTituloMes();
         gerarCalendario();
       } catch (error) {
         console.error('Erro ao carregar os dados:', error);
