@@ -2,92 +2,111 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Calendário de Compras</title>
-  <!-- Importação da fonte Roboto para uma aparência corporativa -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <!-- Fonte Roboto -->
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
   <link
     href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
     rel="stylesheet"
   />
+  <!-- Select2 CSS -->
+  <link
+    href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css"
+    rel="stylesheet"
+  />
   <style>
     /* Estilização geral */
+    * {
+      box-sizing: border-box;
+    }
     body {
       font-family: 'Roboto', sans-serif;
       margin: 0;
-      padding: 20px;
+      padding: 40px; /* Aumenta a margem interna */
       background-color: #f5f7fa;
       color: #333;
+      font-size: 1.1rem; /* Aumenta a fonte base */
     }
     .header {
       text-align: center;
-      margin-bottom: 30px;
+      margin-bottom: 40px;
     }
     .header img {
-      max-width: 180px;
-      margin-bottom: 10px;
+      max-width: 200px; /* Logo um pouco maior */
+      margin-bottom: 15px;
     }
     h1 {
       text-align: center;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
       color: #0056b3;
       font-weight: 500;
+      font-size: 2rem; /* Aumenta o título */
     }
-    /* Estilização do filtro */
+    /* Container principal para centralizar tudo */
+    .container {
+      max-width: 1200px; /* Largura máxima */
+      margin: 0 auto;
+    }
+    /* Filtro */
     .filtro {
       text-align: center;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
     }
     .filtro label {
-      font-size: 1rem;
+      font-size: 1.1rem;
       margin-right: 10px;
       font-weight: 500;
     }
     .filtro select {
-      padding: 8px 12px;
+      padding: 10px 15px;
       font-size: 1rem;
       border: 1px solid #ccc;
       border-radius: 4px;
       outline: none;
       transition: border-color 0.3s ease;
+      width: 280px; /* Largura do select */
     }
     .filtro select:focus {
       border-color: #0056b3;
     }
-    /* Estilização da navegação de meses */
+    /* Navegação de meses */
     .navegacao-meses {
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
+      gap: 20px;
     }
     .navegacao-meses button {
       background-color: #0056b3;
       color: #fff;
       border: none;
-      padding: 10px 15px;
-      margin: 0 10px;
+      padding: 12px 20px; /* Botões maiores */
       border-radius: 4px;
       cursor: pointer;
       font-weight: 500;
+      font-size: 1rem;
     }
     .navegacao-meses button:hover {
       background-color: #003d80;
     }
-    /* Estilização do calendário */
+    .navegacao-meses span {
+      font-size: 1.2rem;
+      font-weight: 500;
+    }
+    /* Calendário */
     .calendar {
       display: grid;
       grid-template-columns: repeat(7, 1fr);
-      gap: 5px;
+      gap: 10px;
       width: 100%;
-      max-width: 1000px;
-      margin: 0 auto 30px auto;
       background-color: #fff;
       border: 1px solid #ddd;
       border-radius: 8px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      padding: 15px;
+      padding: 20px;
     }
     .calendar__day-header {
       background-color: #0056b3;
@@ -96,19 +115,19 @@
       padding: 15px 0;
       border-radius: 4px;
       text-align: center;
+      font-size: 1rem;
     }
     .calendar__day {
       background-color: #fff;
       border: 1px solid #e0e0e0;
       border-radius: 4px;
-      padding: 15px 0;
-      text-align: center;
-      cursor: pointer;
-      transition: background-color 0.3s ease, border-color 0.3s ease;
-      min-height: 70px;
+      min-height: 100px; /* Aumenta a altura */
       display: flex;
       align-items: center;
       justify-content: center;
+      font-size: 1.1rem;
+      cursor: pointer;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
     }
     .calendar__day.empty {
       background-color: transparent;
@@ -127,7 +146,7 @@
       background-color: #cce5ff;
       border: 2px solid #003d80;
     }
-    /* Estilização do modal */
+    /* Modal */
     .modal {
       display: none; /* Oculto por padrão */
       position: fixed;
@@ -141,11 +160,11 @@
     }
     .modal-content {
       background-color: #fff;
-      margin: 10% auto;
+      margin: 5% auto; /* Diminui a margem para aparecer mais alto */
       padding: 20px;
       border: 1px solid #888;
       width: 80%;
-      max-width: 600px;
+      max-width: 700px;
       border-radius: 8px;
       position: relative;
     }
@@ -167,6 +186,7 @@
       text-align: center;
       margin-bottom: 15px;
       color: #0056b3;
+      font-size: 1.5rem;
     }
     .modal-content p {
       margin: 8px 0;
@@ -177,29 +197,32 @@
       border-top: 1px solid #eee;
       margin: 15px 0;
     }
-    @media (max-width: 600px) {
+    @media (max-width: 768px) {
       body {
-        padding: 10px;
+        padding: 20px;
       }
-      
       .calendar {
-        padding: 10px;
-        gap: 3px;
+        padding: 15px;
+        gap: 5px;
       }
-      
-      .calendar__day,
+      .calendar__day {
+        min-height: 60px;
+        font-size: 1rem;
+      }
       .calendar__day-header {
-        padding: 8px 0;
-        font-size: 0.8rem;
+        padding: 10px 0;
+        font-size: 0.9rem;
       }
-      
       .navegacao-meses button {
-        padding: 8px 10px;
+        padding: 10px 15px;
         font-size: 0.9rem;
       }
-      
       .navegacao-meses span {
-        font-size: 0.9rem;
+        font-size: 1rem;
+      }
+      .modal-content {
+        width: 90%;
+        margin: 20% auto;
       }
     }
   </style>
@@ -211,24 +234,27 @@
       alt="Logo Decio"
     />
   </div>
-  <h1>Calendário de Compras</h1>
-  <!-- Filtro por Unidade -->
-  <div class="filtro">
-    <label for="unidade">Filtrar por Unidade:</label>
-    <!-- As opções serão geradas dinamicamente -->
-    <select id="unidade" onchange="filtrarPorUnidade()"></select>
-  </div>
-  
-  <!-- Navegação de Meses -->
-  <div class="navegacao-meses">
-    <button onclick="mudarMes(-1)">Mês Anterior</button>
-    <span id="mesAnoDisplay"></span>
-    <button onclick="mudarMes(1)">Próximo Mês</button>
-  </div>
 
-  <!-- Calendário dinâmico -->
-  <div class="calendar" id="calendar">
-    <!-- O calendário será gerado via JavaScript -->
+  <div class="container">
+    <h1>Calendário de Compras</h1>
+    
+    <!-- Filtro por Unidade com select pesquisável -->
+    <div class="filtro">
+      <label for="unidade">Filtrar por Unidade:</label>
+      <select id="unidade" onchange="filtrarPorUnidade()"></select>
+    </div>
+    
+    <!-- Navegação de Meses -->
+    <div class="navegacao-meses">
+      <button onclick="mudarMes(-1)">Mês Anterior</button>
+      <span id="mesAnoDisplay"></span>
+      <button onclick="mudarMes(1)">Próximo Mês</button>
+    </div>
+
+    <!-- Calendário dinâmico -->
+    <div class="calendar" id="calendar">
+      <!-- O calendário será gerado via JavaScript -->
+    </div>
   </div>
 
   <!-- Modal para exibir detalhes -->
@@ -239,22 +265,28 @@
     </div>
   </div>
 
-  <script>
-    // Variável global para armazenar os dados do JSON
-    let dados = [];
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- Select2 JS -->
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 
-    // Função para formatar a data no formato DD/MM/AAAA
+  <script>
+    let dados = [];
+    let unidadesGlobais = [];
+
+    let dataAtual = new Date();
+    let mesAtual = dataAtual.getMonth();
+    let anoAtual = dataAtual.getFullYear();
+
     function formatarData(data) {
+  // Se data for nulo ou já for a string desejada, retorne-a sem formatar
+      if (!data || data.trim().toUpperCase() === "FRACIONADO DURANTE A SEMANA") {
+        return data;
+      }
       const partes = data.split('/');
       return `${partes[0].padStart(2, '0')}/${partes[1].padStart(2, '0')}/${partes[2]}`;
     }
 
-    // Define mês e ano atuais
-    let dataAtual = new Date();
-    let mesAtual = dataAtual.getMonth(); // 0-indexado
-    let anoAtual = dataAtual.getFullYear();
-
-    // Função para atualizar o título com o mês e ano atuais
     function atualizarTituloMes() {
       const mesAnoDisplay = document.getElementById('mesAnoDisplay');
       const meses = [
@@ -264,59 +296,56 @@
       mesAnoDisplay.textContent = `${meses[mesAtual]} ${anoAtual}`;
     }
 
-    // Função para gerar dinamicamente as opções do filtro de filial
     function gerarOpcoesFilial() {
       const selectUnidade = document.getElementById('unidade');
-      // Adiciona a opção padrão
       selectUnidade.innerHTML = '<option value="">Todas as Unidades</option>';
-      
-      // Extrai os valores únicos da propriedade 'filial' do JSON
+
       const unidadesSet = new Set();
       dados.forEach(item => {
         if (item.filial) {
           unidadesSet.add(item.filial);
         }
       });
-      // Converte o set em array e ordena (opcional)
       const unidades = Array.from(unidadesSet).sort();
-      // Cria as opções dinamicamente
+      unidadesGlobais = unidades;
+
       unidades.forEach(unidade => {
         const option = document.createElement('option');
         option.value = unidade;
         option.textContent = unidade;
         selectUnidade.appendChild(option);
       });
+
+      // Inicia o Select2 para o select pesquisável
+      $(selectUnidade).select2({
+        placeholder: 'Todas as Unidades',
+        allowClear: true,
+        width: 'resolve'
+      });
     }
 
-    // Função para gerar o calendário de forma dinâmica
     function gerarCalendario(unidadeSelecionada = '') {
       const calendarElement = document.getElementById('calendar');
       calendarElement.innerHTML = '';
 
-      // Cabeçalho dos dias da semana (segunda a domingo)
       const diasSemana = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
-      diasSemana.forEach((diaNome) => {
+      diasSemana.forEach(diaNome => {
         const headerCell = document.createElement('div');
         headerCell.classList.add('calendar__day-header');
         headerCell.textContent = diaNome;
         calendarElement.appendChild(headerCell);
       });
 
-      // Número de dias no mês atual
       const diasNoMes = new Date(anoAtual, mesAtual + 1, 0).getDate();
-
-      // Determina o offset: quantas células vazias antes do dia 1
       const primeiroDiaJS = new Date(anoAtual, mesAtual, 1).getDay();
       const offset = primeiroDiaJS === 0 ? 6 : primeiroDiaJS - 1;
 
-      // Cria células vazias para alinhar o primeiro dia
       for (let i = 0; i < offset; i++) {
         const emptyCell = document.createElement('div');
         emptyCell.classList.add('calendar__day', 'empty');
         calendarElement.appendChild(emptyCell);
       }
 
-      // Cria as células com os dias do mês
       for (let dia = 1; dia <= diasNoMes; dia++) {
         const diaCell = document.createElement('div');
         diaCell.classList.add('calendar__day');
@@ -325,8 +354,7 @@
         calendarElement.appendChild(diaCell);
       }
 
-      // Filtra os dados do JSON para o mês/ano atuais e filial selecionada (se houver)
-      const comprasFiltradas = dados.filter((item) => {
+      const comprasFiltradas = dados.filter(item => {
         let [diaStr, mesStr, anoStr] = item.dataAbertura.split('/');
         const mesItem = parseInt(mesStr) - 1;
         const anoItem = parseInt(anoStr);
@@ -340,8 +368,7 @@
         return mesItem === mesAtual && anoItem === anoAtual;
       });
 
-      // Destaca os dias que possuem compras
-      comprasFiltradas.forEach((compra) => {
+      comprasFiltradas.forEach(compra => {
         const diaCompra = parseInt(compra.dataAbertura.split('/')[0]);
         const index = 7 + offset + (diaCompra - 1);
         const diaElement = calendarElement.children[index];
@@ -351,16 +378,13 @@
       });
     }
 
-    // Função para exibir os detalhes em um modal ao clicar em um dia
     function exibirDetalhes(dia) {
       const calendarElement = document.getElementById('calendar');
       const detailsContentElement = document.getElementById('detailsContent');
 
-      // Remove a classe 'selected' de todos os dias
       const diasElements = calendarElement.querySelectorAll('.calendar__day');
-      diasElements.forEach((element) => element.classList.remove('selected'));
+      diasElements.forEach(element => element.classList.remove('selected'));
 
-      // Calcula o índice da célula do dia clicado (lembrando dos 7 cabeçalhos e do offset)
       const primeiroDiaJS = new Date(anoAtual, mesAtual, 1).getDay();
       const offset = primeiroDiaJS === 0 ? 6 : primeiroDiaJS - 1;
       const index = 7 + offset + (dia - 1);
@@ -369,11 +393,9 @@
         diaElement.classList.add('selected');
       }
 
-      // Obtém a filial selecionada, se houver
       const unidadeSelecionada = document.getElementById('unidade').value;
 
-      // Filtra os dados para o dia, mês e ano atuais (e filial, se selecionada)
-      const comprasDoDia = dados.filter((item) => {
+      const comprasDoDia = dados.filter(item => {
         let [diaStr, mesStr, anoStr] = item.dataAbertura.split('/');
         const diaItem = parseInt(diaStr);
         const mesItem = parseInt(mesStr) - 1;
@@ -389,42 +411,42 @@
         return diaItem === parseInt(dia) && mesItem === mesAtual && anoItem === anoAtual;
       });
 
-      // Monta o HTML dos detalhes
       const detalhesHTML = comprasDoDia
-        .map(
-          (compra) => `
-        <div>
-          <p><strong>Data de Abertura:</strong> ${formatarData(compra.dataAbertura)}</p>
-          <p><strong>Categoria:</strong> ${compra.categoria}</p>
-          <p><strong>Filial:</strong> ${compra.filial}</p>
-          <p><strong>Previsão de Entrega:</strong> ${formatarData(compra.previsaoEntrega)}</p>
-          <hr>
-        </div>
-      `
-        )
-        .join('');
+  .map((compra) => {
+    // Se a categoria e a filial forem as desejadas, substitui a data pela string
+    const previsaoEntregaValue = 
+      (compra.categoria === "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)" && compra.filial === "RESTAURANTE PARADA BONITA")
+        ? "FRACIONADO DURANTE A SEMANA"
+        : formatarData(compra.previsaoEntrega);
+
+    return `
+      <div>
+        <p><strong>Data de Abertura:</strong> ${formatarData(compra.dataAbertura)}</p>
+        <p><strong>Categoria:</strong> ${compra.categoria}</p>
+        <p><strong>Filial:</strong> ${compra.filial}</p>
+        <p><strong>Previsão de Entrega:</strong> ${previsaoEntregaValue}</p>
+        <hr>
+      </div>
+    `;
+  })
+  .join("");
 
       detailsContentElement.innerHTML = detalhesHTML;
-
-      // Exibe o modal
       document.getElementById('modal').style.display = 'block';
     }
 
-    // Função para fechar o modal
     function fecharModal() {
       document.getElementById('modal').style.display = 'none';
     }
 
-    // Função para filtrar por unidade e regenerar o calendário
     function filtrarPorUnidade() {
       const unidadeSelecionada = document.getElementById('unidade').value;
       gerarCalendario(unidadeSelecionada);
       const calendarElement = document.getElementById('calendar');
       const dias = calendarElement.querySelectorAll('.calendar__day');
-      dias.forEach((diaElement) => diaElement.classList.remove('selected'));
+      dias.forEach(diaElement => diaElement.classList.remove('selected'));
     }
 
-    // Função para mudar o mês (direção: -1 para anterior, 1 para próximo)
     function mudarMes(direcao) {
       mesAtual += direcao;
       if (mesAtual < 0) {
@@ -435,12 +457,10 @@
         anoAtual += 1;
       }
       atualizarTituloMes();
-      // Reaplica o filtro caso alguma filial esteja selecionada
       const unidadeSelecionada = document.getElementById('unidade').value;
       gerarCalendario(unidadeSelecionada);
     }
 
-    // Carrega os dados do JSON, gera as opções do filtro e o calendário ao carregar a página
     window.onload = async function () {
       try {
         const response = await fetch('agenda.json');
@@ -448,7 +468,6 @@
           throw new Error(`Erro ao carregar o JSON: ${response.statusText}`);
         }
         dados = await response.json();
-        // Gera dinamicamente as opções do filtro com base nas unidades do JSON
         gerarOpcoesFilial();
         atualizarTituloMes();
         gerarCalendario();
