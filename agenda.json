@@ -27562,6 +27562,2598 @@
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"BOMBOCADO CONVENIENCIA L14",
         "previsaoEntrega":"02/04/2025"
+    },
+     {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE OLHOS D'ÁGUA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"07/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"08/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"14/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"21/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"22/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"28/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"29/03/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"07/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"14/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"21/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"28/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"HORTIFRUTI",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"05/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"SALGADOS",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"05/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PANIFICAÇÕES",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"09/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"06/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"13/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"20/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"27/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"06/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"13/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"20/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"27/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"03/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"04/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"11/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"18/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"25/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"01/04/2025"
+    },
+    {
+        "dataAbertura":"07/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"14/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"21/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"28/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"05/03/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"07/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"14/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"21/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"28/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"04/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"OVO",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":null
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":null
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":null
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":null
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":null
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"03/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"10/03/2025"
+    },
+    {
+        "dataAbertura":"10/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"17/03/2025"
+    },
+    {
+        "dataAbertura":"17/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"24/03/2025"
+    },
+    {
+        "dataAbertura":"24/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"31/03/2025"
+    },
+    {
+        "dataAbertura":"31/03/2025",
+        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"07/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS D'AGUA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"02/04/2025"
+    },
+    {
+        "dataAbertura":"05/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"12/03/2025"
+    },
+    {
+        "dataAbertura":"12/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"19/03/2025"
+    },
+    {
+        "dataAbertura":"19/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"26/03/2025"
+    },
+    {
+        "dataAbertura":"26/03/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"02/04/2025"
     }
    
 ]
