@@ -24,17 +24,17 @@
     body {
       font-family: 'Roboto', sans-serif;
       margin: 0;
-      padding: 40px; /* Aumenta a margem interna */
+      padding: 40px;
       background-color: #f5f7fa;
       color: #333;
-      font-size: 1.1rem; /* Aumenta a fonte base */
+      font-size: 1.1rem;
     }
     .header {
       text-align: center;
       margin-bottom: 40px;
     }
     .header img {
-      max-width: 200px; /* Logo um pouco maior */
+      max-width: 200px;
       margin-bottom: 15px;
     }
     h1 {
@@ -42,11 +42,11 @@
       margin-bottom: 30px;
       color: #0056b3;
       font-weight: 500;
-      font-size: 2rem; /* Aumenta o título */
+      font-size: 2rem;
     }
-    /* Container principal para centralizar tudo */
+    /* Container principal */
     .container {
-      max-width: 1200px; /* Largura máxima */
+      max-width: 1200px;
       margin: 0 auto;
     }
     /* Filtro */
@@ -66,7 +66,7 @@
       border-radius: 4px;
       outline: none;
       transition: border-color 0.3s ease;
-      width: 280px; /* Largura do select */
+      width: 280px;
     }
     .filtro select:focus {
       border-color: #0056b3;
@@ -83,7 +83,7 @@
       background-color: #0056b3;
       color: #fff;
       border: none;
-      padding: 12px 20px; /* Botões maiores */
+      padding: 12px 20px;
       border-radius: 4px;
       cursor: pointer;
       font-weight: 500;
@@ -121,7 +121,7 @@
       background-color: #fff;
       border: 1px solid #e0e0e0;
       border-radius: 4px;
-      min-height: 100px; /* Aumenta a altura */
+      min-height: 100px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -146,9 +146,9 @@
       background-color: #cce5ff;
       border: 2px solid #003d80;
     }
-    /* Modal */
+    /* Modal padrão (detalhes dos dias) */
     .modal {
-      display: none; /* Oculto por padrão */
+      display: none;
       position: fixed;
       z-index: 1000;
       left: 0;
@@ -160,7 +160,7 @@
     }
     .modal-content {
       background-color: #fff;
-      margin: 5% auto; /* Diminui a margem para aparecer mais alto */
+      margin: 5% auto;
       padding: 20px;
       border: 1px solid #888;
       width: 80%;
@@ -196,6 +196,43 @@
       border: none;
       border-top: 1px solid #eee;
       margin: 15px 0;
+    }
+    /* Estilizando o pop-up de alerta inicial */
+    #popupAlert .modal-content {
+      padding: 30px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, #fdfbfb, #ebedee);
+      border: 2px solid #ff4444;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      animation: popUp 0.5s ease-out;
+      max-width: 500px;
+    }
+    @keyframes popUp {
+      from {
+        transform: scale(0.8);
+        opacity: 0;
+      }
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+    /* Destaque para a palavra "Atenção" */
+    .alert-header {
+      background-color: #ff4444;
+      color: #ffffff;
+      padding: 0.3rem 0.6rem;
+      border-radius: 4px;
+      font-weight: 900;
+      margin-bottom: 0.5rem;
+      display: inline-block;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+      100% { transform: scale(1); }
     }
     @media (max-width: 768px) {
       body {
@@ -257,11 +294,26 @@
     </div>
   </div>
 
-  <!-- Modal para exibir detalhes -->
+  <!-- Modal para exibir detalhes dos dias -->
   <div id="modal" class="modal">
     <div class="modal-content">
       <span class="close" onclick="fecharModal()">&times;</span>
       <div id="detailsContent"></div>
+    </div>
+  </div>
+
+  <!-- Pop-up de alerta inicial -->
+  <div id="popupAlert" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="fecharPopup()">&times;</span>
+      <div id="popupContent">
+        <p style="font-weight: bold; font-size: 1.2rem; text-align: center;">
+          <span class="alert-header">Atenção feriado prolongado:</span>
+        </p>
+        <p style="font-size: 1.1rem; text-align: center;">
+          Devido ao feriado prolongado neste mês, solicitamos que ajustem suas previsões de demanda considerando a sazonalidade desse período.
+        </p>
+      </div>
     </div>
   </div>
 
@@ -279,7 +331,6 @@
     let anoAtual = dataAtual.getFullYear();
 
     function formatarData(data) {
-  // Se data for nulo ou já for a string desejada, retorne-a sem formatar
       if (!data || data.trim().toUpperCase() === "FRACIONADO DURANTE A SEMANA") {
         return data;
       }
@@ -299,7 +350,6 @@
     function gerarOpcoesFilial() {
       const selectUnidade = document.getElementById('unidade');
       selectUnidade.innerHTML = '<option value="">Todas as Unidades</option>';
-
       const unidadesSet = new Set();
       dados.forEach(item => {
         if (item.filial) {
@@ -308,15 +358,12 @@
       });
       const unidades = Array.from(unidadesSet).sort();
       unidadesGlobais = unidades;
-
       unidades.forEach(unidade => {
         const option = document.createElement('option');
         option.value = unidade;
         option.textContent = unidade;
         selectUnidade.appendChild(option);
       });
-
-      // Inicia o Select2 para o select pesquisável
       $(selectUnidade).select2({
         placeholder: 'Todas as Unidades',
         allowClear: true,
@@ -324,6 +371,7 @@
       });
     }
 
+    // Gerar o calendário sem condições especiais para dias
     function gerarCalendario(unidadeSelecionada = '') {
       const calendarElement = document.getElementById('calendar');
       calendarElement.innerHTML = '';
@@ -381,10 +429,8 @@
     function exibirDetalhes(dia) {
       const calendarElement = document.getElementById('calendar');
       const detailsContentElement = document.getElementById('detailsContent');
-
       const diasElements = calendarElement.querySelectorAll('.calendar__day');
       diasElements.forEach(element => element.classList.remove('selected'));
-
       const primeiroDiaJS = new Date(anoAtual, mesAtual, 1).getDay();
       const offset = primeiroDiaJS === 0 ? 6 : primeiroDiaJS - 1;
       const index = 7 + offset + (dia - 1);
@@ -392,9 +438,7 @@
       if (diaElement) {
         diaElement.classList.add('selected');
       }
-
       const unidadeSelecionada = document.getElementById('unidade').value;
-
       const comprasDoDia = dados.filter(item => {
         let [diaStr, mesStr, anoStr] = item.dataAbertura.split('/');
         const diaItem = parseInt(diaStr);
@@ -412,24 +456,22 @@
       });
 
       const detalhesHTML = comprasDoDia
-  .map((compra) => {
-    // Se a categoria e a filial forem as desejadas, substitui a data pela string
-    const previsaoEntregaValue = 
-      (compra.categoria === "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)" && compra.filial === "RESTAURANTE PARADA BONITA")
-        ? "FRACIONADO DURANTE A SEMANA"
-        : formatarData(compra.previsaoEntrega);
-
-    return `
-      <div>
-        <p><strong>Data de Abertura:</strong> ${formatarData(compra.dataAbertura)}</p>
-        <p><strong>Categoria:</strong> ${compra.categoria}</p>
-        <p><strong>Filial:</strong> ${compra.filial}</p>
-        <p><strong>Previsão de Entrega:</strong> ${previsaoEntregaValue}</p>
-        <hr>
-      </div>
-    `;
-  })
-  .join("");
+        .map(compra => {
+          const previsaoEntregaValue = 
+            (compra.categoria === "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)" && compra.filial === "RESTAURANTE PARADA BONITA")
+              ? "FRACIONADO DURANTE A SEMANA"
+              : formatarData(compra.previsaoEntrega);
+          return `
+            <div>
+              <p><strong>Data de Abertura:</strong> ${formatarData(compra.dataAbertura)}</p>
+              <p><strong>Categoria:</strong> ${compra.categoria}</p>
+              <p><strong>Filial:</strong> ${compra.filial}</p>
+              <p><strong>Previsão de Entrega:</strong> ${previsaoEntregaValue}</p>
+              <hr>
+            </div>
+          `;
+        })
+        .join("");
 
       detailsContentElement.innerHTML = detalhesHTML;
       document.getElementById('modal').style.display = 'block';
@@ -437,6 +479,11 @@
 
     function fecharModal() {
       document.getElementById('modal').style.display = 'none';
+    }
+
+    // Função para fechar o pop-up inicial
+    function fecharPopup() {
+      document.getElementById("popupAlert").style.display = "none";
     }
 
     function filtrarPorUnidade() {
@@ -471,6 +518,8 @@
         gerarOpcoesFilial();
         atualizarTituloMes();
         gerarCalendario();
+        // Exibe o pop-up de alerta logo na entrada do site
+        document.getElementById("popupAlert").style.display = "block";
       } catch (error) {
         console.error('Erro ao carregar os dados:', error);
         alert('Erro ao carregar os dados. Verifique o console para mais detalhes.');
