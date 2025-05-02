@@ -1332,10 +1332,10 @@
         "previsaoEntrega":"13/05/2025"
     },
     {
-        "dataAbertura":"15/08/2025",
+        "dataAbertura":"15/05/2025",
         "categoria":"PANIFICAÇÕES",
         "filial":"RESTAURANTE RIO VERDE",
-        "previsaoEntrega":"20/08/2025"
+        "previsaoEntrega":"20/05/2025"
     },
     {
         "dataAbertura":"22/05/2025",
@@ -1752,22 +1752,22 @@
         "previsaoEntrega":"07/05/2025"
     },
     {
-        "dataAbertura":"07/04/2025",
+        "dataAbertura":"07/05/2025",
         "categoria":"OVO",
         "filial":"RESTAURANTE RIO VERDE",
-        "previsaoEntrega":"09/04/2025"
+        "previsaoEntrega":"09/05/2025"
     },
     {
-        "dataAbertura":"12/04/2025",
+        "dataAbertura":"12/05/2025",
         "categoria":"OVO",
         "filial":"RESTAURANTE RIO VERDE",
-        "previsaoEntrega":"14/04/2025"
+        "previsaoEntrega":"14/05/2025"
     },
     {
-        "dataAbertura":"14/04/2025",
+        "dataAbertura":"14/05/2025",
         "categoria":"OVO",
         "filial":"RESTAURANTE RIO VERDE",
-        "previsaoEntrega":"16/04/2025"
+        "previsaoEntrega":"16/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
@@ -2154,58 +2154,10 @@
         "previsaoEntrega":"02/06/2025"
     },
     {
-        "dataAbertura":"07/07/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ARAPORA",
-        "previsaoEntrega":"14/07/2025"
-    },
-    {
-        "dataAbertura":"14/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ARAPORA",
-        "previsaoEntrega":"21/05/2025"
-    },
-    {
-        "dataAbertura":"21/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ARAPORA",
-        "previsaoEntrega":"28/05/2025"
-    },
-    {
-        "dataAbertura":"28/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ARAPORA",
-        "previsaoEntrega":"04/06/2025"
-    },
-    {
-        "dataAbertura":"07/07/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE BARREIRAS",
-        "previsaoEntrega":"14/07/2025"
-    },
-    {
-        "dataAbertura":"14/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE BARREIRAS",
-        "previsaoEntrega":"21/05/2025"
-    },
-    {
-        "dataAbertura":"21/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE BARREIRAS",
-        "previsaoEntrega":"28/05/2025"
-    },
-    {
-        "dataAbertura":"28/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE BARREIRAS",
-        "previsaoEntrega":"04/06/2025"
-    },
-    {
-        "dataAbertura":"07/07/2025",
+        "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"RESTAURANTE BURITI",
-        "previsaoEntrega":"14/07/2025"
+        "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
@@ -2226,106 +2178,10 @@
         "previsaoEntrega":"04/06/2025"
     },
     {
-        "dataAbertura":"07/07/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CAMPINA VERDE",
-        "previsaoEntrega":"14/07/2025"
-    },
-    {
-        "dataAbertura":"14/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CAMPINA VERDE",
-        "previsaoEntrega":"21/05/2025"
-    },
-    {
-        "dataAbertura":"21/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CAMPINA VERDE",
-        "previsaoEntrega":"28/05/2025"
-    },
-    {
-        "dataAbertura":"28/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CAMPINA VERDE",
-        "previsaoEntrega":"04/06/2025"
-    },
-    {
-        "dataAbertura":"07/07/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CENTRALINA",
-        "previsaoEntrega":"14/07/2025"
-    },
-    {
-        "dataAbertura":"14/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CENTRALINA",
-        "previsaoEntrega":"21/05/2025"
-    },
-    {
-        "dataAbertura":"21/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CENTRALINA",
-        "previsaoEntrega":"28/05/2025"
-    },
-    {
-        "dataAbertura":"28/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE CENTRALINA",
-        "previsaoEntrega":"04/06/2025"
-    },
-    {
-        "dataAbertura":"07/07/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE GURUPI",
-        "previsaoEntrega":"14/07/2025"
-    },
-    {
-        "dataAbertura":"14/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE GURUPI",
-        "previsaoEntrega":"21/05/2025"
-    },
-    {
-        "dataAbertura":"21/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE GURUPI",
-        "previsaoEntrega":"28/05/2025"
-    },
-    {
-        "dataAbertura":"28/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE GURUPI",
-        "previsaoEntrega":"04/06/2025"
-    },
-    {
-        "dataAbertura":"07/07/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ITUIUTABA",
-        "previsaoEntrega":"14/07/2025"
-    },
-    {
-        "dataAbertura":"14/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ITUIUTABA",
-        "previsaoEntrega":"21/05/2025"
-    },
-    {
-        "dataAbertura":"21/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ITUIUTABA",
-        "previsaoEntrega":"28/05/2025"
-    },
-    {
-        "dataAbertura":"28/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE ITUIUTABA",
-        "previsaoEntrega":"04/06/2025"
-    },
-    {
-        "dataAbertura":"07/07/2025",
+        "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"RESTAURANTE OLHOS DAGUA",
-        "previsaoEntrega":"14/07/2025"
+        "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
@@ -2346,34 +2202,10 @@
         "previsaoEntrega":"04/06/2025"
     },
     {
-        "dataAbertura":"07/07/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE MINEIROS",
-        "previsaoEntrega":"14/07/2025"
-    },
-    {
-        "dataAbertura":"14/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE MINEIROS",
-        "previsaoEntrega":"21/05/2025"
-    },
-    {
-        "dataAbertura":"21/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE MINEIROS",
-        "previsaoEntrega":"28/05/2025"
-    },
-    {
-        "dataAbertura":"28/05/2025",
-        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE MINEIROS",
-        "previsaoEntrega":"04/06/2025"
-    },
-    {
-        "dataAbertura":"07/07/2025",
+        "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"RESTAURANTE PARADA BONITA",
-        "previsaoEntrega":"14/07/2025"
+        "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
@@ -2394,10 +2226,178 @@
         "previsaoEntrega":"04/06/2025"
     },
     {
-        "dataAbertura":"07/07/2025",
+        "dataAbertura":"07/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"14/05/2025"
+    },
+    {
+        "dataAbertura":"14/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"21/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"28/05/2025"
+    },
+    {
+        "dataAbertura":"28/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"07/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"14/05/2025"
+    },
+    {
+        "dataAbertura":"14/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"21/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"28/05/2025"
+    },
+    {
+        "dataAbertura":"28/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"07/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"14/05/2025"
+    },
+    {
+        "dataAbertura":"14/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"21/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"28/05/2025"
+    },
+    {
+        "dataAbertura":"28/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"07/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"14/05/2025"
+    },
+    {
+        "dataAbertura":"14/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"21/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"28/05/2025"
+    },
+    {
+        "dataAbertura":"28/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"07/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"14/05/2025"
+    },
+    {
+        "dataAbertura":"14/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"21/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"28/05/2025"
+    },
+    {
+        "dataAbertura":"28/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"07/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"14/05/2025"
+    },
+    {
+        "dataAbertura":"14/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"21/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"28/05/2025"
+    },
+    {
+        "dataAbertura":"28/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"07/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"14/05/2025"
+    },
+    {
+        "dataAbertura":"14/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"21/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"28/05/2025"
+    },
+    {
+        "dataAbertura":"28/05/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"RESTAURANTE PRESIDENTE VENCESLAU",
-        "previsaoEntrega":"14/07/2025"
+        "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
@@ -2418,51 +2418,51 @@
         "previsaoEntrega":"04/06/2025"
     },
     {
-        "dataAbertura":"07/07/2025",
+        "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE RIO VERDE",
-        "previsaoEntrega":"14/07/2025"
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE RIO VERDE",
+        "filial":"RESTAURANTE BARREIRAS",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE RIO VERDE",
+        "filial":"RESTAURANTE BARREIRAS",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE RIO VERDE",
+        "filial":"RESTAURANTE BARREIRAS",
         "previsaoEntrega":"04/06/2025"
     },
     {
-        "dataAbertura":"07/07/2025",
+        "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE UBERLANDIA",
-        "previsaoEntrega":"14/07/2025"
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE UBERLANDIA",
+        "filial":"RESTAURANTE GURUPI",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE UBERLANDIA",
+        "filial":"RESTAURANTE GURUPI",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"RESTAURANTE UBERLANDIA",
+        "filial":"RESTAURANTE GURUPI",
         "previsaoEntrega":"04/06/2025"
     },
     {
@@ -3386,655 +3386,655 @@
     {
         "dataAbertura":"05/05/2025",
         "categoria":"OVO",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"07/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"OVO",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"OVO",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"OVO",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"02/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"06/05/2025"
     },
     {
         "dataAbertura":"08/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"13/05/2025"
     },
     {
         "dataAbertura":"15/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"20/05/2025"
     },
     {
         "dataAbertura":"22/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"27/05/2025"
     },
     {
         "dataAbertura":"29/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"03/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"12/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"19/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"26/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"02/06/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L13",
+        "filial":"CONVENIENCIA L13",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L2",
+        "filial":"CONVENIENCIA L2",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L3",
+        "filial":"CONVENIENCIA L3",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L4",
+        "filial":"CONVENIENCIA L4",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"02/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"06/05/2025"
     },
     {
         "dataAbertura":"08/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"13/05/2025"
     },
     {
         "dataAbertura":"15/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"20/05/2025"
     },
     {
         "dataAbertura":"22/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"27/05/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"29/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L5",
+        "filial":"CONVENIENCIA L5",
         "previsaoEntrega":"03/06/2025"
     },
     {
         "dataAbertura":"02/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"06/05/2025"
     },
     {
         "dataAbertura":"08/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"13/05/2025"
     },
     {
         "dataAbertura":"15/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"20/05/2025"
     },
     {
         "dataAbertura":"22/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"27/05/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"29/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L6",
+        "filial":"CONVENIENCIA L6",
         "previsaoEntrega":"03/06/2025"
     },
     {
         "dataAbertura":"02/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"06/05/2025"
     },
     {
         "dataAbertura":"08/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"13/05/2025"
     },
     {
         "dataAbertura":"15/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"20/05/2025"
     },
     {
         "dataAbertura":"22/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"27/05/2025"
     },
     {
         "dataAbertura":"29/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"03/06/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L7",
+        "filial":"CONVENIENCIA L7",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"05/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"08/05/2025"
     },
     {
         "dataAbertura":"12/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"15/05/2025"
     },
     {
         "dataAbertura":"19/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"22/05/2025"
     },
     {
         "dataAbertura":"26/05/2025",
         "categoria":"SALGADOS",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"29/05/2025"
     },
     {
         "dataAbertura":"02/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"06/05/2025"
     },
     {
         "dataAbertura":"08/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"13/05/2025"
     },
     {
         "dataAbertura":"15/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"20/05/2025"
     },
     {
         "dataAbertura":"22/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"27/05/2025"
     },
     {
         "dataAbertura":"07/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"14/05/2025"
     },
     {
         "dataAbertura":"14/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"21/05/2025"
     },
     {
         "dataAbertura":"21/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"28/05/2025"
     },
     {
         "dataAbertura":"28/05/2025",
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"04/06/2025"
     },
     {
         "dataAbertura":"29/05/2025",
         "categoria":"PANIFICAÇÕES",
-        "filial":"BOMBOCADO CONVENIENCIA L14",
+        "filial":"CONVENIENCIA L14",
         "previsaoEntrega":"03/06/2025"
     },
     {
