@@ -302,7 +302,7 @@
     </div>
   </div>
 
-  <!-- Pop-up de alerta inicial 
+  <!-- Pop-up de alerta inicial (COMENTADO - PODE SER REATIVADO DEPOIS) 
   <div id="popupAlert" class="modal">
     <div class="modal-content">
       <span class="close" onclick="fecharPopup()">&times;</span>
@@ -371,7 +371,6 @@
       });
     }
 
-    // Gerar o calendário sem condições especiais para dias
     function gerarCalendario(unidadeSelecionada = '') {
       const calendarElement = document.getElementById('calendar');
       calendarElement.innerHTML = '';
@@ -481,10 +480,12 @@
       document.getElementById('modal').style.display = 'none';
     }
 
-    // Função para fechar o pop-up inicial
+    // Função para fechar o pop-up inicial (COMENTADA - PODE SER REATIVADA DEPOIS)
+    /*
     function fecharPopup() {
       document.getElementById("popupAlert").style.display = "none";
     }
+    */
 
     function filtrarPorUnidade() {
       const unidadeSelecionada = document.getElementById('unidade').value;
@@ -518,8 +519,9 @@
         gerarOpcoesFilial();
         atualizarTituloMes();
         gerarCalendario();
-        // Exibe o pop-up de alerta logo na entrada do site
-        document.getElementById("popupAlert").style.display = "block";
+        
+        // Linha comentada para evitar o erro (pode ser reativada quando o popup for necessário)
+        // document.getElementById("popupAlert").style.display = "block";
       } catch (error) {
         console.error('Erro ao carregar os dados:', error);
         alert('Erro ao carregar os dados. Verifique o console para mais detalhes.');
