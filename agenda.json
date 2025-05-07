@@ -24348,5 +24348,41 @@
         "categoria":"DOCES",
         "filial":"RESTAURANTE RIO VERDE",
         "previsaoEntrega":"04/06/2025"
+    },
+    {
+        "dataAbertura":"12/05/2025",
+        "categoria":"FILTROS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"20/05/2025"
+    },
+    {
+        "dataAbertura":"26/05/2025",
+        "categoria":"FILTROS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"03/06/2025"
+    },
+       {
+        "dataAbertura":"07/05/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"27/05/2025"
+    },
+      {
+        "dataAbertura":"21/05/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"10/06/2025"
+    },
+      {
+        "dataAbertura":"07/05/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"19/05/2025"
+    },
+    {
+        "dataAbertura":"21/05/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"02/06/2025"
     }
 ]
