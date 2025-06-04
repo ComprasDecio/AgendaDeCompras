@@ -24112,5 +24112,121 @@
         "categoria":"Despesas holding ( café, açucar...)",
         "filial":"DECIO HOLDING",
         "previsaoEntrega":"03/07/2025"
+    },
+
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA CENTRALINA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA ARAPORA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA L2",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA L3",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA L4",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA BURITI",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"12/06/2025"
+    },
+    {
+        "dataAbertura":"05/06/2025",
+        "categoria":"ENERGETICO RED BULL",
+        "filial":"CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega":"12/06/2025"
     }
 ]
+
