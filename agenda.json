@@ -48720,6 +48720,829 @@
         "categoria":"Equipamentos T.I",
         "filial":"POSTO ALTO DA CIDADE",
         "previsaoEntrega":"13/08/2025"
+    },
+    
+     {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS ARAPORA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS BARREIRAS",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS BURITI",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS CAMPINA VERDE",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS CENTRALINA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS GURUPI",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS ITUIUTABA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS MINEIROS",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS OLHOS D'AGUA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS PARADA BONITA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS PRES. VENCESLAU",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS RIO VERDE",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS UBERLANDIA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS ARAPORA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS BARREIRAS",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS BURITI",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS CAMPINA VERDE",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS CENTRALINA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS GURUPI",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS ITUIUTABA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS MINEIROS",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS OLHOS D'AGUA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS PARADA BONITA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS PRES. VENCESLAU",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS RIO VERDE",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS UBERLANDIA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO ARAPORA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO BARREIRAS",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO BURITI",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO CAMPINA VERDE",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO CENTRALINA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO GURUPI",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO ITUIUTABA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO MINEIROS",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO OLHOS D'AGUA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO PARADA BONITA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO PRES. VENCESLAU",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO RIO VERDE",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO UBERLANDIA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L2",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L3",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L4",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L5",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L6",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L7",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L13",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO DECIO L14",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"TRR GURUPI",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"TRR ITUIUTABA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"TRR ITUMBIARA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"TRR ITUMBIARA 2",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"TRR PARADA BONITA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"TRR RIO VERDE",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"ADITIVOS",
+        "filial":"TRR UBERLANDIA",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO ARAPORA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO BARREIRAS",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO BURITI",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO CAMPINA VERDE",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO CENTRALINA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO GURUPI",
+        "previsaoEntrega":"19/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO ITUIUTABA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO MINEIROS",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO OLHOS D'AGUA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO PARADA BONITA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO PRES. VENCESLAU",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO RIO VERDE",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO UBERLANDIA",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L2",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L3",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L4",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L5",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L6",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L7",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L13",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO DECIO L14",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"30/07/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"11/08/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L2",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L3",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L4",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L5",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L6",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L7",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L14",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ARAPORA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO BARREIRAS",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO CAMPINA VERDE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO CENTRALINA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO BURITI",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ITUIUTABA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO MINEIROS",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO OLHOS D'AGUA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO PARADA BONITA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO PRES. VENCESLAU",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO RIO VERDE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"23/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO UBERLANDIA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L2",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L3",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L4",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L5",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L6",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L7",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L14",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ARAPORA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO BARREIRAS",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO CAMPINA VERDE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO CENTRALINA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO BURITI",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ITUIUTABA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO MINEIROS",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO OLHOS D'AGUA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO PARADA BONITA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO PRES. VENCESLAU",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO RIO VERDE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"25/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO UBERLANDIA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L2",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L3",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L4",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L5",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L6",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L7",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO DECIO L14",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ALTO DA CIDADE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ARAPORA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO BARREIRAS",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO CAMPINA VERDE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO CENTRALINA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO BURITI",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO ITUIUTABA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO MINEIROS",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO OLHOS D'AGUA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO PARADA BONITA",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO PRES. VENCESLAU",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO RIO VERDE",
+        "previsaoEntrega":"31/07/2025"
+    },
+    {
+        "dataAbertura":"24/07/2025",
+        "categoria":"LUBRIFICANTES",
+        "filial":"POSTO UBERLANDIA",
+        "previsaoEntrega":"31/07/2025"
     }
 ]
 
