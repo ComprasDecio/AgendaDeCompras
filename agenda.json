@@ -73963,8 +73963,346 @@
         "categoria":"SECOS / MERCEARIA / CONFEITARIA",
         "filial":"BOMBOCADO L14",
         "previsaoEntrega":"05/09/2025"
+    },
+    
+    {
+        "dataAbertura":"25/08/2025",
+        "categoria":"AUTO-GELADEIRAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"09/10/2025"
+    },
+    {
+        "dataAbertura":"25/08/2025",
+        "categoria":"AUTO-CAIXA DE COZINHA",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"09/10/2025"
+    },
+    {
+        "dataAbertura":"25/08/2025",
+        "categoria":"AUTO-CLIMATIZADORES/RODOAR",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"09/10/2025"
+    },
+    {
+        "dataAbertura":"25/08/2025",
+        "categoria":"AUTO-PECAS AR CONDICIONADO",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"09/10/2025"
+    },
+    {
+        "dataAbertura":"25/08/2025",
+        "categoria":"VAR-FOGOES",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"09/10/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"QUIM-AROMATIZANTES",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"24/08/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"QUIM-COLAS/SILIC/FITAS/CERAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"24/08/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"QUIM-PRODUTOS LIMPEZA",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"24/08/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"QUIM-PRODUTOS QUIMICOS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"24/08/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"BONES/CHAPEUS ( CATA OVO)",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"24/08/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"CAMA/MESA/BANHO",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"18/09/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"ORBI QUIMICA (PED. MIN. R$3.000,00)",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"29/08/2025"
+    },
+    {
+        "dataAbertura":"13/08/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"25/08/2025"
+    },
+    {
+        "dataAbertura":"27/08/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"08/09/2025"
+    },
+    {
+        "dataAbertura":"11/08/2025",
+        "categoria":"AUTO-CORDAS/CINTAS/GANCHOS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"28/08/2025"
+    },
+    {
+        "dataAbertura":"11/08/2025",
+        "categoria":"AUTO-RETROVISORES/VIDROS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"28/08/2025"
+    },
+    {
+        "dataAbertura":"11/08/2025",
+        "categoria":"AUTO-ESCAPAMENTO/ESCADAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"28/08/2025"
+    },
+    {
+        "dataAbertura":"11/08/2025",
+        "categoria":"AUTO-CALHAS/AEROFOLIO/RESERV",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"28/08/2025"
+    },
+    {
+        "dataAbertura":"11/08/2025",
+        "categoria":"AUTO-ADESIVOS/EMBLEMAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"28/08/2025"
+    },
+    {
+        "dataAbertura":"11/08/2025",
+        "categoria":"AUTO-ACESSORIOS P/TAPECARIA",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"28/08/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-FIXACAO/ENGATE/ABRAC",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-FREIO/FLEX/CRUZETA/CARDAN",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-JUNTAS/REPAROS/RETENTOR",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-MANGUEIRAS/RADIADOR",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-PORTA MECANISMO",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-RACOR/TANQ/ROTAT/CARTER",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-ROLAMENTO",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-VALVULAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-VELOCIMETRO/TACOGRAFO",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-PNEU/RODAS/CALOTAS/ CAPA PORCA",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-SUSPENSAO/AMORTECEDOR",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-PARTES INTERNAS CABINE",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-SUPORTES",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-ACESSORIOS DIVERSOS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-SOM/INVERSOR/PX",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"AUTO-TAMPAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"VAR-TELEVISORES/DVD PLAYER",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"ARTIGOS DE CASA( panelas)",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"12/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"STANLEY  ( Ped. Minimo R$3.500,00)",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"07/09/2025"
+    },
+    {
+        "dataAbertura":"13/08/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"28/08/2025"
+    },
+    {
+        "dataAbertura":"27/08/2025",
+        "categoria":"AUTO-BATERIAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"11/09/2025"
+    },
+    {
+        "dataAbertura":"20/08/2025",
+        "categoria":"AUTO-LAMPADAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"20/08/2025",
+        "categoria":"AUTO-LANTERNAS/FAROL/LENTES",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"20/08/2025",
+        "categoria":"AUTO-PECAS ELETRICAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"05/09/2025"
+    },
+    {
+        "dataAbertura":"01/08/2025",
+        "categoria":"VAR-CADEADOS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"01/08/2025",
+        "categoria":"VAR-GFA/BOLSA/CAIXA TERMICA",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"01/08/2025",
+        "categoria":"VAR-LANTERNAS/BATERIAS/PILHAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"01/08/2025",
+        "categoria":"VAR-HIGIENE PESSOAL",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"01/08/2025",
+        "categoria":"VAR-FERRAMENTAS",
+        "filial":"ACESSORIOS CEZARINA",
+        "previsaoEntrega":"14/08/2025"
+    },
+    {
+        "dataAbertura":"04/08/2025",
+        "categoria":"GRUPO FILTROS",
+        "filial":"POSTO CEZARINA",
+        "previsaoEntrega":"12/08/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"GRUPO FILTROS",
+        "filial":"POSTO CEZARINA",
+        "previsaoEntrega":"26/08/2025"
+    },
+    {
+        "dataAbertura":"13/08/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO CEZARINA",
+        "previsaoEntrega":"02/09/2025"
+    },
+    {
+        "dataAbertura":"27/08/2025",
+        "categoria":"ADITIVOS",
+        "filial":"POSTO CEZARINA",
+        "previsaoEntrega":"16/09/2025"
+    },
+    {
+        "dataAbertura":"13/08/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO CEZARINA",
+        "previsaoEntrega":"25/08/2025"
+    },
+    {
+        "dataAbertura":"27/08/2025",
+        "categoria":"AUTO-PALHETAS",
+        "filial":"POSTO CEZARINA",
+        "previsaoEntrega":"08/09/2025"
+    },
+    {
+        "dataAbertura":"18/08/2025",
+        "categoria":"STANLEY  ( Ped. Minimo R$3.500,00)",
+        "filial":"POSTO CEZARINA",
+        "previsaoEntrega":"07/09/2025"
     }
 ]
+
 
 
     
