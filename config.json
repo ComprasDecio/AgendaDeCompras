@@ -1,0 +1,1127 @@
+{
+  "configuracoes": {
+    "ultimaAtualizacao": "2025-01-15",
+    "proximaAtualizacao": "2025-01-29",
+    "tabelaAtual": "MG_Uberlandia",
+    "senhaAdmin": "admin123"
+  },
+  "unidadesPorTabela": {
+    "MG_Uberlandia": [
+      "CONVENIENCIA L2",
+      "CONVENIENCIA L3",
+      "CONVENIENCIA L4",
+      "CONVENIENCIA L5",
+      "CONVENIENCIA L6",
+      "CONVENIENCIA L7",
+      "CONVENIENCIA L13",
+      "CONVENIENCIA L14",
+      "CONVENIENCIA CAMPINAS"
+    ],
+    "MG": [
+      "RESTAURANTE CENTRALINA",
+      "RESTAURANTE ARAPORA",
+      "RESTAURANTE CAMPINA VERDE",
+      "RESTAURANTE ITUIUTABA",
+      "CONVENIENCIA CENTRALINA",
+      "CONVENIENCIA ARAPORA",
+      "CONVENIENCIA CAMPINA VERDE",
+      "CONVENIENCIA ITUIUTABA"
+    ],
+    "GO": [
+      "RESTAURANTE GOIANIA",
+      "RESTAURANTE APARECIDA",
+      "CONVENIENCIA GOIANIA",
+      "CONVENIENCIA APARECIDA"
+    ],
+    "BA": [
+      "RESTAURANTE BARREIRAS",
+      "RESTAURANTE SALVADOR",
+      "CONVENIENCIA BARREIRAS",
+      "CONVENIENCIA SALVADOR"
+    ],
+    "SP": [
+      "RESTAURANTE SAO_PAULO",
+      "RESTAURANTE CAMPINAS",
+      "CONVENIENCIA SAO_PAULO"      
+    ]
+  },
+  "tabelaPrecos_MG_Uberlandia": {
+    "dataInicio": "2025-01-15",
+    "dataFim": "2025-01-29",
+    "regiao": "MG Uberlândia",
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Carne Bovina - Filé Mignon",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 89.90
+      },
+      {
+        "id": 2,
+        "nome": "Carne Bovina - Picanha",
+        "categoria": "Carnes", 
+        "unidade": "kg",
+        "valor": 76.50
+      },
+      {
+        "id": 3,
+        "nome": "Frango - Peito",
+        "categoria": "Carnes",
+        "unidade": "kg", 
+        "valor": 24.80
+      },
+      {
+        "id": 4,
+        "nome": "Porco - Costela",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 32.40
+      },
+      {
+        "id": 5,
+        "nome": "Peixe - Tilápia",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 18.90
+      },
+      {
+        "id": 6,
+        "nome": "Queijo Minas",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 28.50
+      },
+      {
+        "id": 7,
+        "nome": "Leite Integral",
+        "categoria": "Laticínios", 
+        "unidade": "l",
+        "valor": 4.20
+      },
+      {
+        "id": 8,
+        "nome": "Manteiga",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 15.80
+      },
+      {
+        "id": 9,
+        "nome": "Arroz Tipo 1",
+        "categoria": "Grãos",
+        "unidade": "kg",
+        "valor": 6.90
+      },
+      {
+        "id": 10,
+        "nome": "Feijão Preto",
+        "categoria": "Grãos",
+        "unidade": "kg", 
+        "valor": 8.50
+      },
+      {
+        "id": 11,
+        "nome": "Batata Inglesa",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 5.20
+      },
+      {
+        "id": 12,
+        "nome": "Cebola",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 4.80
+      },
+      {
+        "id": 13,
+        "nome": "Tomate",
+        "categoria": "Vegetais", 
+        "unidade": "kg",
+        "valor": 7.90
+      },
+      {
+        "id": 14,
+        "nome": "Alho",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 12.40
+      },
+      {
+        "id": 15,
+        "nome": "Óleo de Soja",
+        "categoria": "Temperos",
+        "unidade": "l",
+        "valor": 8.90
+      },
+      {
+        "id": 16,
+        "nome": "Sal Refinado",
+        "categoria": "Temperos",
+        "unidade": "kg",
+        "valor": 2.80
+      },
+      {
+        "id": 17,
+        "nome": "Açúcar Cristal",
+        "categoria": "Temperos",
+        "unidade": "kg", 
+        "valor": 4.60
+      },
+      {
+        "id": 18,
+        "nome": "Café Torrado",
+        "categoria": "Bebidas",
+        "unidade": "kg",
+        "valor": 18.90
+      },
+      {
+        "id": 19,
+        "nome": "Refrigerante Coca-Cola",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 6.50
+      },
+      {
+        "id": 20,
+        "nome": "Cerveja Skol",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 3.80
+      }
+    ]
+  },
+  "tabelaPrecos_MG": {
+    "dataInicio": "2025-01-15",
+    "dataFim": "2025-01-29",
+    "regiao": "Minas Gerais",
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Carne Bovina - Filé Mignon",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 87.50
+      },
+      {
+        "id": 2,
+        "nome": "Carne Bovina - Picanha",
+        "categoria": "Carnes", 
+        "unidade": "kg",
+        "valor": 74.80
+      },
+      {
+        "id": 3,
+        "nome": "Frango - Peito",
+        "categoria": "Carnes",
+        "unidade": "kg", 
+        "valor": 23.90
+      },
+      {
+        "id": 4,
+        "nome": "Porco - Costela",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 31.60
+      },
+      {
+        "id": 5,
+        "nome": "Peixe - Tilápia",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 18.40
+      },
+      {
+        "id": 6,
+        "nome": "Queijo Minas",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 27.50
+      },
+      {
+        "id": 7,
+        "nome": "Leite Integral",
+        "categoria": "Laticínios", 
+        "unidade": "l",
+        "valor": 4.10
+      },
+      {
+        "id": 8,
+        "nome": "Manteiga",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 15.40
+      },
+      {
+        "id": 9,
+        "nome": "Arroz Tipo 1",
+        "categoria": "Grãos",
+        "unidade": "kg",
+        "valor": 6.70
+      },
+      {
+        "id": 10,
+        "nome": "Feijão Preto",
+        "categoria": "Grãos",
+        "unidade": "kg", 
+        "valor": 8.20
+      },
+      {
+        "id": 11,
+        "nome": "Batata Inglesa",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 5.10
+      },
+      {
+        "id": 12,
+        "nome": "Cebola",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 4.70
+      },
+      {
+        "id": 13,
+        "nome": "Tomate",
+        "categoria": "Vegetais", 
+        "unidade": "kg",
+        "valor": 7.80
+      },
+      {
+        "id": 14,
+        "nome": "Alho",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 12.20
+      },
+      {
+        "id": 15,
+        "nome": "Óleo de Soja",
+        "categoria": "Temperos",
+        "unidade": "l",
+        "valor": 8.70
+      },
+      {
+        "id": 16,
+        "nome": "Sal Refinado",
+        "categoria": "Temperos",
+        "unidade": "kg",
+        "valor": 2.70
+      },
+      {
+        "id": 17,
+        "nome": "Açúcar Cristal",
+        "categoria": "Temperos",
+        "unidade": "kg", 
+        "valor": 4.50
+      },
+      {
+        "id": 18,
+        "nome": "Café Torrado",
+        "categoria": "Bebidas",
+        "unidade": "kg",
+        "valor": 18.50
+      },
+      {
+        "id": 19,
+        "nome": "Refrigerante Coca-Cola",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 6.30
+      },
+      {
+        "id": 20,
+        "nome": "Cerveja Skol",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 3.70
+      }
+    ]
+  },
+  "tabelaPrecos_GO": {
+    "dataInicio": "2025-01-15",
+    "dataFim": "2025-01-29",
+    "regiao": "Goiás",
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Carne Bovina - Filé Mignon",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 88.90
+      },
+      {
+        "id": 2,
+        "nome": "Carne Bovina - Picanha",
+        "categoria": "Carnes", 
+        "unidade": "kg",
+        "valor": 75.60
+      },
+      {
+        "id": 3,
+        "nome": "Frango - Peito",
+        "categoria": "Carnes",
+        "unidade": "kg", 
+        "valor": 24.20
+      },
+      {
+        "id": 4,
+        "nome": "Porco - Costela",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 32.10
+      },
+      {
+        "id": 5,
+        "nome": "Peixe - Tilápia",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 18.80
+      },
+      {
+        "id": 6,
+        "nome": "Queijo Minas",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 28.20
+      },
+      {
+        "id": 7,
+        "nome": "Leite Integral",
+        "categoria": "Laticínios", 
+        "unidade": "l",
+        "valor": 4.30
+      },
+      {
+        "id": 8,
+        "nome": "Manteiga",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 15.90
+      },
+      {
+        "id": 9,
+        "nome": "Arroz Tipo 1",
+        "categoria": "Grãos",
+        "unidade": "kg",
+        "valor": 6.80
+      },
+      {
+        "id": 10,
+        "nome": "Feijão Preto",
+        "categoria": "Grãos",
+        "unidade": "kg", 
+        "valor": 8.40
+      },
+      {
+        "id": 11,
+        "nome": "Batata Inglesa",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 5.30
+      },
+      {
+        "id": 12,
+        "nome": "Cebola",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 4.90
+      },
+      {
+        "id": 13,
+        "nome": "Tomate",
+        "categoria": "Vegetais", 
+        "unidade": "kg",
+        "valor": 8.10
+      },
+      {
+        "id": 14,
+        "nome": "Alho",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 12.60
+      },
+      {
+        "id": 15,
+        "nome": "Óleo de Soja",
+        "categoria": "Temperos",
+        "unidade": "l",
+        "valor": 8.90
+      },
+      {
+        "id": 16,
+        "nome": "Sal Refinado",
+        "categoria": "Temperos",
+        "unidade": "kg",
+        "valor": 2.80
+      },
+      {
+        "id": 17,
+        "nome": "Açúcar Cristal",
+        "categoria": "Temperos",
+        "unidade": "kg", 
+        "valor": 4.70
+      },
+      {
+        "id": 18,
+        "nome": "Café Torrado",
+        "categoria": "Bebidas",
+        "unidade": "kg",
+        "valor": 19.20
+      },
+      {
+        "id": 19,
+        "nome": "Refrigerante Coca-Cola",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 6.60
+      },
+      {
+        "id": 20,
+        "nome": "Cerveja Skol",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 3.90
+      }
+    ]
+  },
+  "tabelaPrecos_BA": {
+    "dataInicio": "2025-01-15",
+    "dataFim": "2025-01-29",
+    "regiao": "Bahia",
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Carne Bovina - Filé Mignon",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 91.20
+      },
+      {
+        "id": 2,
+        "nome": "Carne Bovina - Picanha",
+        "categoria": "Carnes", 
+        "unidade": "kg",
+        "valor": 77.40
+      },
+      {
+        "id": 3,
+        "nome": "Frango - Peito",
+        "categoria": "Carnes",
+        "unidade": "kg", 
+        "valor": 24.80
+      },
+      {
+        "id": 4,
+        "nome": "Porco - Costela",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 32.80
+      },
+      {
+        "id": 5,
+        "nome": "Peixe - Tilápia",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 19.20
+      },
+      {
+        "id": 6,
+        "nome": "Queijo Minas",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 28.90
+      },
+      {
+        "id": 7,
+        "nome": "Leite Integral",
+        "categoria": "Laticínios", 
+        "unidade": "l",
+        "valor": 4.50
+      },
+      {
+        "id": 8,
+        "nome": "Manteiga",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 16.30
+      },
+      {
+        "id": 9,
+        "nome": "Arroz Tipo 1",
+        "categoria": "Grãos",
+        "unidade": "kg",
+        "valor": 7.20
+      },
+      {
+        "id": 10,
+        "nome": "Feijão Preto",
+        "categoria": "Grãos",
+        "unidade": "kg", 
+        "valor": 8.80
+      },
+      {
+        "id": 11,
+        "nome": "Batata Inglesa",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 5.60
+      },
+      {
+        "id": 12,
+        "nome": "Cebola",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 5.20
+      },
+      {
+        "id": 13,
+        "nome": "Tomate",
+        "categoria": "Vegetais", 
+        "unidade": "kg",
+        "valor": 8.40
+      },
+      {
+        "id": 14,
+        "nome": "Alho",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 13.10
+      },
+      {
+        "id": 15,
+        "nome": "Óleo de Soja",
+        "categoria": "Temperos",
+        "unidade": "l",
+        "valor": 9.20
+      },
+      {
+        "id": 16,
+        "nome": "Sal Refinado",
+        "categoria": "Temperos",
+        "unidade": "kg",
+        "valor": 2.90
+      },
+      {
+        "id": 17,
+        "nome": "Açúcar Cristal",
+        "categoria": "Temperos",
+        "unidade": "kg", 
+        "valor": 4.90
+      },
+      {
+        "id": 18,
+        "nome": "Café Torrado",
+        "categoria": "Bebidas",
+        "unidade": "kg",
+        "valor": 19.80
+      },
+      {
+        "id": 19,
+        "nome": "Refrigerante Coca-Cola",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 6.90
+      },
+      {
+        "id": 20,
+        "nome": "Cerveja Skol",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 4.10
+      }
+    ]
+  },
+  "tabelaPrecos_SP": {
+    "dataInicio": "2025-01-15",
+    "dataFim": "2025-01-29",
+    "regiao": "São Paulo",
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Carne Bovina - Filé Mignon",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 94.50
+      },
+      {
+        "id": 2,
+        "nome": "Carne Bovina - Picanha",
+        "categoria": "Carnes", 
+        "unidade": "kg",
+        "valor": 80.20
+      },
+      {
+        "id": 3,
+        "nome": "Frango - Peito",
+        "categoria": "Carnes",
+        "unidade": "kg", 
+        "valor": 25.60
+      },
+      {
+        "id": 4,
+        "nome": "Porco - Costela",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 33.90
+      },
+      {
+        "id": 5,
+        "nome": "Peixe - Tilápia",
+        "categoria": "Carnes",
+        "unidade": "kg",
+        "valor": 19.80
+      },
+      {
+        "id": 6,
+        "nome": "Queijo Minas",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 29.80
+      },
+      {
+        "id": 7,
+        "nome": "Leite Integral",
+        "categoria": "Laticínios", 
+        "unidade": "l",
+        "valor": 4.80
+      },
+      {
+        "id": 8,
+        "nome": "Manteiga",
+        "categoria": "Laticínios",
+        "unidade": "kg",
+        "valor": 16.90
+      },
+      {
+        "id": 9,
+        "nome": "Arroz Tipo 1",
+        "categoria": "Grãos",
+        "unidade": "kg",
+        "valor": 7.50
+      },
+      {
+        "id": 10,
+        "nome": "Feijão Preto",
+        "categoria": "Grãos",
+        "unidade": "kg", 
+        "valor": 9.20
+      },
+      {
+        "id": 11,
+        "nome": "Batata Inglesa",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 5.90
+      },
+      {
+        "id": 12,
+        "nome": "Cebola",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 5.50
+      },
+      {
+        "id": 13,
+        "nome": "Tomate",
+        "categoria": "Vegetais", 
+        "unidade": "kg",
+        "valor": 8.80
+      },
+      {
+        "id": 14,
+        "nome": "Alho",
+        "categoria": "Vegetais",
+        "unidade": "kg",
+        "valor": 13.60
+      },
+      {
+        "id": 15,
+        "nome": "Óleo de Soja",
+        "categoria": "Temperos",
+        "unidade": "l",
+        "valor": 9.60
+      },
+      {
+        "id": 16,
+        "nome": "Sal Refinado",
+        "categoria": "Temperos",
+        "unidade": "kg",
+        "valor": 3.10
+      },
+      {
+        "id": 17,
+        "nome": "Açúcar Cristal",
+        "categoria": "Temperos",
+        "unidade": "kg", 
+        "valor": 5.20
+      },
+      {
+        "id": 18,
+        "nome": "Café Torrado",
+        "categoria": "Bebidas",
+        "unidade": "kg",
+        "valor": 20.50
+      },
+      {
+        "id": 19,
+        "nome": "Refrigerante Coca-Cola",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 7.20
+      },
+      {
+        "id": 20,
+        "nome": "Cerveja Skol",
+        "categoria": "Bebidas",
+        "unidade": "l",
+        "valor": 4.30
+      }
+    ]
+  },
+  "informacoesEntrega": {
+    "RESTAURANTE BARREIRAS": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Barreiras",
+      "estado": "BA",
+      "cep": "47800-000",
+      "telefone": "(77) 3612-3456",
+      "contato": "Gerente - João Silva",
+      "email": "barreiras@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "RESTAURANTE CENTRALINA": {
+      "endereco": "Av. Central, 456 - Centro",
+      "cidade": "Centralina",
+      "estado": "MG", 
+      "cep": "38390-000",
+      "telefone": "(34) 3371-2345",
+      "contato": "Gerente - Maria Santos",
+      "email": "centralina@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "07:00 - 18:00",
+        "terca": "07:00 - 18:00", 
+        "quarta": "07:00 - 18:00",
+        "quinta": "07:00 - 18:00",
+        "sexta": "07:00 - 18:00",
+        "sabado": "07:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "CONVENIENCIA CENTRALINA": {
+      "endereco": "Av. Central, 789 - Centro",
+      "cidade": "Centralina",
+      "estado": "MG",
+      "cep": "38390-000", 
+      "telefone": "(34) 3371-3456",
+      "contato": "Gerente - Pedro Costa",
+      "email": "conveniencia.centralina@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 19:00",
+        "terca": "08:00 - 19:00", 
+        "quarta": "08:00 - 19:00",
+        "quinta": "08:00 - 19:00",
+        "sexta": "08:00 - 19:00",
+        "sabado": "08:00 - 16:00",
+        "domingo": "10:00 - 14:00"
+      }
+    },
+    "RESTAURANTE ARAPORA": {
+      "endereco": "Rua das Flores, 321 - Centro",
+      "cidade": "Arapora",
+      "estado": "MG",
+      "cep": "38430-000",
+      "telefone": "(34) 3362-1234",
+      "contato": "Gerente - Ana Oliveira",
+      "email": "arapora@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "07:00 - 18:00",
+        "terca": "07:00 - 18:00", 
+        "quarta": "07:00 - 18:00",
+        "quinta": "07:00 - 18:00",
+        "sexta": "07:00 - 18:00",
+        "sabado": "07:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "CONVENIENCIA ARAPORA": {
+      "endereco": "Rua das Flores, 654 - Centro", 
+      "cidade": "Arapora",
+      "estado": "MG",
+      "cep": "38430-000",
+      "telefone": "(34) 3362-2345",
+      "contato": "Gerente - Carlos Mendes",
+      "email": "conveniencia.arapora@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 19:00",
+        "terca": "08:00 - 19:00", 
+        "quarta": "08:00 - 19:00",
+        "quinta": "08:00 - 19:00",
+        "sexta": "08:00 - 19:00",
+        "sabado": "08:00 - 16:00",
+        "domingo": "10:00 - 14:00"
+      }
+    },
+    "RESTAURANTE CAMPINA VERDE": {
+      "endereco": "Av. Brasil, 987 - Centro",
+      "cidade": "Campina Verde", 
+      "estado": "MG",
+      "cep": "38270-000",
+      "telefone": "(34) 3355-1234",
+      "contato": "Gerente - Lucia Ferreira",
+      "email": "campinaverde@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "07:00 - 18:00",
+        "terca": "07:00 - 18:00", 
+        "quarta": "07:00 - 18:00",
+        "quinta": "07:00 - 18:00",
+        "sexta": "07:00 - 18:00",
+        "sabado": "07:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "CONVENIENCIA CAMPINA VERDE": {
+      "endereco": "Av. Brasil, 147 - Centro",
+      "cidade": "Campina Verde",
+      "estado": "MG",
+      "cep": "38270-000",
+      "telefone": "(34) 3355-2345",
+      "contato": "Gerente - Roberto Alves",
+      "email": "conveniencia.campinaverde@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 19:00",
+        "terca": "08:00 - 19:00", 
+        "quarta": "08:00 - 19:00",
+        "quinta": "08:00 - 19:00",
+        "sexta": "08:00 - 19:00",
+        "sabado": "08:00 - 16:00",
+        "domingo": "10:00 - 14:00"
+      }
+    },
+    "RESTAURANTE ITUIUTABA": {
+      "endereco": "Rua 13 de Maio, 258 - Centro",
+      "cidade": "Ituiutaba",
+      "estado": "MG",
+      "cep": "38300-000",
+      "telefone": "(34) 3261-1234",
+      "contato": "Gerente - Fernanda Lima",
+      "email": "ituiutaba@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "07:00 - 18:00",
+        "terca": "07:00 - 18:00", 
+        "quarta": "07:00 - 18:00",
+        "quinta": "07:00 - 18:00",
+        "sexta": "07:00 - 18:00",
+        "sabado": "07:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "CONVENIENCIA ITUIUTABA": {
+      "endereco": "Rua 13 de Maio, 369 - Centro",
+      "cidade": "Ituiutaba", 
+      "estado": "MG",
+      "cep": "38300-000",
+      "telefone": "(34) 3261-2345",
+      "contato": "Gerente - Marcos Souza",
+      "email": "conveniencia.ituiutaba@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 19:00",
+        "terca": "08:00 - 19:00", 
+        "quarta": "08:00 - 19:00",
+        "quinta": "08:00 - 19:00",
+        "sexta": "08:00 - 19:00",
+        "sabado": "08:00 - 16:00",
+        "domingo": "10:00 - 14:00"
+      }
+    },
+    "RESTAURANTE GURUPI": {
+      "endereco": "Av. Tocantins, 741 - Centro",
+      "cidade": "Gurupi",
+      "estado": "TO",
+      "cep": "77403-000",
+      "telefone": "(63) 3312-1234",
+      "contato": "Gerente - Patricia Rocha",
+      "email": "gurupi@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "07:00 - 18:00",
+        "terca": "07:00 - 18:00", 
+        "quarta": "07:00 - 18:00",
+        "quinta": "07:00 - 18:00",
+        "sexta": "07:00 - 18:00",
+        "sabado": "07:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "CONVENIENCIA GURUPI": {
+      "endereco": "Av. Tocantins, 852 - Centro",
+      "cidade": "Gurupi",
+      "estado": "TO",
+      "cep": "77403-000",
+      "telefone": "(63) 3312-2345",
+      "contato": "Gerente - Antonio Barbosa",
+      "email": "conveniencia.gurupi@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 19:00",
+        "terca": "08:00 - 19:00", 
+        "quarta": "08:00 - 19:00",
+        "quinta": "08:00 - 19:00",
+        "sexta": "08:00 - 19:00",
+        "sabado": "08:00 - 16:00",
+        "domingo": "10:00 - 14:00"
+      }
+    },
+    "CONVENIENCIA L2": {
+      "endereco": "Rua Comercial, 100 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - L2",
+      "email": "l2@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    },
+    "CONVENIENCIA L3": {
+      "endereco": "Rua Comercial, 200 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG", 
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5679",
+      "contato": "Gerente - L3",
+      "email": "l3@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    },
+    "CONVENIENCIA L4": {
+      "endereco": "Rua Comercial, 300 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5680",
+      "contato": "Gerente - L4",
+      "email": "l4@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    },
+    "CONVENIENCIA L5": {
+      "endereco": "Rua Comercial, 400 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5681",
+      "contato": "Gerente - L5",
+      "email": "l5@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    },
+    "CONVENIENCIA L6": {
+      "endereco": "Rua Comercial, 500 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5682",
+      "contato": "Gerente - L6",
+      "email": "l6@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    },
+    "CONVENIENCIA L7": {
+      "endereco": "Rua Comercial, 600 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5683",
+      "contato": "Gerente - L7",
+      "email": "l7@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    },
+    "CONVENIENCIA L13": {
+      "endereco": "Rua Comercial, 700 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5684",
+      "contato": "Gerente - L13",
+      "email": "l13@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    },
+    "CONVENIENCIA L14": {
+      "endereco": "Rua Comercial, 800 - Centro",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5685",
+      "contato": "Gerente - L14",
+      "email": "l14@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "06:00 - 22:00",
+        "terca": "06:00 - 22:00", 
+        "quarta": "06:00 - 22:00",
+        "quinta": "06:00 - 22:00",
+        "sexta": "06:00 - 22:00",
+        "sabado": "06:00 - 22:00",
+        "domingo": "06:00 - 22:00"
+      }
+    }
+  }
+}
