@@ -7,42 +7,27 @@
   },
   "unidadesPorTabela": {
     "MG_Uberlandia": [
-      "CONVENIENCIA L2",
-      "CONVENIENCIA L3",
-      "CONVENIENCIA L4",
-      "CONVENIENCIA L5",
-      "CONVENIENCIA L6",
-      "CONVENIENCIA L7",
-      "CONVENIENCIA L13",
-      "CONVENIENCIA L14",
-      "CONVENIENCIA CAMPINAS"
+      "RESTAURANTE UBERLANDIA",
+      "RESTAURANTE PARADA BONITA",
+      "RESTAURANTE OLHOS D'AGUA",
+      "RESTAURANTE BURITI"
     ],
     "MG": [
       "RESTAURANTE CENTRALINA",
       "RESTAURANTE ARAPORA",
       "RESTAURANTE CAMPINA VERDE",
-      "RESTAURANTE ITUIUTABA",
-      "CONVENIENCIA CENTRALINA",
-      "CONVENIENCIA ARAPORA",
-      "CONVENIENCIA CAMPINA VERDE",
-      "CONVENIENCIA ITUIUTABA"
+      "RESTAURANTE ITUIUTABA"
     ],
     "GO": [
-      "RESTAURANTE GOIANIA",
-      "RESTAURANTE APARECIDA",
-      "CONVENIENCIA GOIANIA",
-      "CONVENIENCIA APARECIDA"
+      "RESTAURANTE RIO VERDE",
+      "RESTAURANTE MINEIROS",
+      "RESTAURANTE CEZARINA"
     ],
     "BA": [
-      "RESTAURANTE BARREIRAS",
-      "RESTAURANTE SALVADOR",
-      "CONVENIENCIA BARREIRAS",
-      "CONVENIENCIA SALVADOR"
-    ],
+      "RESTAURANTE BARREIRAS"
+  ],
     "SP": [
-      "RESTAURANTE SAO_PAULO",
-      "RESTAURANTE CAMPINAS",
-      "CONVENIENCIA SAO_PAULO"      
+    "RESTAURANTE PRESIDENTE VENCESLAU"
     ]
   },
   "tabelaPrecos_MG_Uberlandia": {
@@ -781,14 +766,69 @@
     ]
   },
   "informacoesEntrega": {
-    "RESTAURANTE BARREIRAS": {
+
+    "RESTAURANTE UBERLANDIA": {
       "endereco": "Rua Principal, 123 - Centro",
-      "cidade": "Barreiras",
-      "estado": "BA",
-      "cep": "47800-000",
-      "telefone": "(77) 3612-3456",
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5678",
       "contato": "Gerente - João Silva",
-      "email": "barreiras@grupodecio.com.br",
+      "email": "uberlandia@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "RESTAURANTE PARADA BONITA": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Parada Bonita",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "paradabonita@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "RESTAURANTE OLHOS D'AGUA": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Olhos D'Água",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "olhosdagu@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "RESTAURANTE BURITI": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Buriti",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "buriti@grupodecio.com.br",
       "horariosEntrega": {
         "segunda": "08:00 - 17:00",
         "terca": "08:00 - 17:00", 
@@ -800,327 +840,163 @@
       }
     },
     "RESTAURANTE CENTRALINA": {
-      "endereco": "Av. Central, 456 - Centro",
+      "endereco": "Rua Principal, 123 - Centro",
       "cidade": "Centralina",
-      "estado": "MG", 
-      "cep": "38390-000",
-      "telefone": "(34) 3371-2345",
-      "contato": "Gerente - Maria Santos",
-      "email": "centralina@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "07:00 - 18:00",
-        "terca": "07:00 - 18:00", 
-        "quarta": "07:00 - 18:00",
-        "quinta": "07:00 - 18:00",
-        "sexta": "07:00 - 18:00",
-        "sabado": "07:00 - 12:00",
-        "domingo": "Não há entrega"
-      }
-    },
-    "CONVENIENCIA CENTRALINA": {
-      "endereco": "Av. Central, 789 - Centro",
-      "cidade": "Centralina",
-      "estado": "MG",
-      "cep": "38390-000", 
-      "telefone": "(34) 3371-3456",
-      "contato": "Gerente - Pedro Costa",
-      "email": "conveniencia.centralina@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "08:00 - 19:00",
-        "terca": "08:00 - 19:00", 
-        "quarta": "08:00 - 19:00",
-        "quinta": "08:00 - 19:00",
-        "sexta": "08:00 - 19:00",
-        "sabado": "08:00 - 16:00",
-        "domingo": "10:00 - 14:00"
-      }
-    },
-    "RESTAURANTE ARAPORA": {
-      "endereco": "Rua das Flores, 321 - Centro",
-      "cidade": "Arapora",
-      "estado": "MG",
-      "cep": "38430-000",
-      "telefone": "(34) 3362-1234",
-      "contato": "Gerente - Ana Oliveira",
-      "email": "arapora@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "07:00 - 18:00",
-        "terca": "07:00 - 18:00", 
-        "quarta": "07:00 - 18:00",
-        "quinta": "07:00 - 18:00",
-        "sexta": "07:00 - 18:00",
-        "sabado": "07:00 - 12:00",
-        "domingo": "Não há entrega"
-      }
-    },
-    "CONVENIENCIA ARAPORA": {
-      "endereco": "Rua das Flores, 654 - Centro", 
-      "cidade": "Arapora",
-      "estado": "MG",
-      "cep": "38430-000",
-      "telefone": "(34) 3362-2345",
-      "contato": "Gerente - Carlos Mendes",
-      "email": "conveniencia.arapora@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "08:00 - 19:00",
-        "terca": "08:00 - 19:00", 
-        "quarta": "08:00 - 19:00",
-        "quinta": "08:00 - 19:00",
-        "sexta": "08:00 - 19:00",
-        "sabado": "08:00 - 16:00",
-        "domingo": "10:00 - 14:00"
-      }
-    },
-    "RESTAURANTE CAMPINA VERDE": {
-      "endereco": "Av. Brasil, 987 - Centro",
-      "cidade": "Campina Verde", 
-      "estado": "MG",
-      "cep": "38270-000",
-      "telefone": "(34) 3355-1234",
-      "contato": "Gerente - Lucia Ferreira",
-      "email": "campinaverde@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "07:00 - 18:00",
-        "terca": "07:00 - 18:00", 
-        "quarta": "07:00 - 18:00",
-        "quinta": "07:00 - 18:00",
-        "sexta": "07:00 - 18:00",
-        "sabado": "07:00 - 12:00",
-        "domingo": "Não há entrega"
-      }
-    },
-    "CONVENIENCIA CAMPINA VERDE": {
-      "endereco": "Av. Brasil, 147 - Centro",
-      "cidade": "Campina Verde",
-      "estado": "MG",
-      "cep": "38270-000",
-      "telefone": "(34) 3355-2345",
-      "contato": "Gerente - Roberto Alves",
-      "email": "conveniencia.campinaverde@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "08:00 - 19:00",
-        "terca": "08:00 - 19:00", 
-        "quarta": "08:00 - 19:00",
-        "quinta": "08:00 - 19:00",
-        "sexta": "08:00 - 19:00",
-        "sabado": "08:00 - 16:00",
-        "domingo": "10:00 - 14:00"
-      }
-    },
-    "RESTAURANTE ITUIUTABA": {
-      "endereco": "Rua 13 de Maio, 258 - Centro",
-      "cidade": "Ituiutaba",
-      "estado": "MG",
-      "cep": "38300-000",
-      "telefone": "(34) 3261-1234",
-      "contato": "Gerente - Fernanda Lima",
-      "email": "ituiutaba@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "07:00 - 18:00",
-        "terca": "07:00 - 18:00", 
-        "quarta": "07:00 - 18:00",
-        "quinta": "07:00 - 18:00",
-        "sexta": "07:00 - 18:00",
-        "sabado": "07:00 - 12:00",
-        "domingo": "Não há entrega"
-      }
-    },
-    "CONVENIENCIA ITUIUTABA": {
-      "endereco": "Rua 13 de Maio, 369 - Centro",
-      "cidade": "Ituiutaba", 
-      "estado": "MG",
-      "cep": "38300-000",
-      "telefone": "(34) 3261-2345",
-      "contato": "Gerente - Marcos Souza",
-      "email": "conveniencia.ituiutaba@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "08:00 - 19:00",
-        "terca": "08:00 - 19:00", 
-        "quarta": "08:00 - 19:00",
-        "quinta": "08:00 - 19:00",
-        "sexta": "08:00 - 19:00",
-        "sabado": "08:00 - 16:00",
-        "domingo": "10:00 - 14:00"
-      }
-    },
-    "RESTAURANTE GURUPI": {
-      "endereco": "Av. Tocantins, 741 - Centro",
-      "cidade": "Gurupi",
-      "estado": "TO",
-      "cep": "77403-000",
-      "telefone": "(63) 3312-1234",
-      "contato": "Gerente - Patricia Rocha",
-      "email": "gurupi@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "07:00 - 18:00",
-        "terca": "07:00 - 18:00", 
-        "quarta": "07:00 - 18:00",
-        "quinta": "07:00 - 18:00",
-        "sexta": "07:00 - 18:00",
-        "sabado": "07:00 - 12:00",
-        "domingo": "Não há entrega"
-      }
-    },
-    "CONVENIENCIA GURUPI": {
-      "endereco": "Av. Tocantins, 852 - Centro",
-      "cidade": "Gurupi",
-      "estado": "TO",
-      "cep": "77403-000",
-      "telefone": "(63) 3312-2345",
-      "contato": "Gerente - Antonio Barbosa",
-      "email": "conveniencia.gurupi@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "08:00 - 19:00",
-        "terca": "08:00 - 19:00", 
-        "quarta": "08:00 - 19:00",
-        "quinta": "08:00 - 19:00",
-        "sexta": "08:00 - 19:00",
-        "sabado": "08:00 - 16:00",
-        "domingo": "10:00 - 14:00"
-      }
-    },
-    "CONVENIENCIA L2": {
-      "endereco": "Rua Comercial, 100 - Centro",
-      "cidade": "Uberlândia",
       "estado": "MG",
       "cep": "38000-000",
       "telefone": "(34) 3234-5678",
-      "contato": "Gerente - L2",
-      "email": "l2@grupodecio.com.br",
+      "contato": "Gerente - João Silva",
+      "email": "buriti@grupodecio.com.br",
       "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
       }
     },
-    "CONVENIENCIA L3": {
-      "endereco": "Rua Comercial, 200 - Centro",
-      "cidade": "Uberlândia",
-      "estado": "MG", 
-      "cep": "38000-000",
-      "telefone": "(34) 3234-5679",
-      "contato": "Gerente - L3",
-      "email": "l3@grupodecio.com.br",
-      "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
-      }
-    },
-    "CONVENIENCIA L4": {
-      "endereco": "Rua Comercial, 300 - Centro",
-      "cidade": "Uberlândia",
+    "RESTAURANTE ARAPORA": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Arapora",
       "estado": "MG",
       "cep": "38000-000",
-      "telefone": "(34) 3234-5680",
-      "contato": "Gerente - L4",
-      "email": "l4@grupodecio.com.br",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "arapora@grupodecio.com.br",
       "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
       }
     },
-    "CONVENIENCIA L5": {
-      "endereco": "Rua Comercial, 400 - Centro",
-      "cidade": "Uberlândia",
+    "RESTAURANTE CAMPINA VERDE": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Campina Verde",
       "estado": "MG",
       "cep": "38000-000",
-      "telefone": "(34) 3234-5681",
-      "contato": "Gerente - L5",
-      "email": "l5@grupodecio.com.br",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "campinaverde@grupodecio.com.br",
       "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
       }
     },
-    "CONVENIENCIA L6": {
-      "endereco": "Rua Comercial, 500 - Centro",
-      "cidade": "Uberlândia",
+    "RESTAURANTE ITUIUTABA": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Ituiutaba",
       "estado": "MG",
       "cep": "38000-000",
-      "telefone": "(34) 3234-5682",
-      "contato": "Gerente - L6",
-      "email": "l6@grupodecio.com.br",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "ituiutaba@grupodecio.com.br",
       "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
       }
     },
-    "CONVENIENCIA L7": {
-      "endereco": "Rua Comercial, 600 - Centro",
-      "cidade": "Uberlândia",
+    "RESTAURANTE RIO VERDE": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Rio Verde",
       "estado": "MG",
       "cep": "38000-000",
-      "telefone": "(34) 3234-5683",
-      "contato": "Gerente - L7",
-      "email": "l7@grupodecio.com.br",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "rioverde@grupodecio.com.br",
       "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
       }
     },
-    "CONVENIENCIA L13": {
-      "endereco": "Rua Comercial, 700 - Centro",
-      "cidade": "Uberlândia",
+    "RESTAURANTE MINEIROS": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Mineiros",
       "estado": "MG",
       "cep": "38000-000",
-      "telefone": "(34) 3234-5684",
-      "contato": "Gerente - L13",
-      "email": "l13@grupodecio.com.br",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "mineiros@grupodecio.com.br",
       "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
       }
     },
-    "CONVENIENCIA L14": {
-      "endereco": "Rua Comercial, 800 - Centro",
-      "cidade": "Uberlândia",
+    "RESTAURANTE CEZARINA": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Cezarina",
       "estado": "MG",
       "cep": "38000-000",
-      "telefone": "(34) 3234-5685",
-      "contato": "Gerente - L14",
-      "email": "l14@grupodecio.com.br",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "cezarina@grupodecio.com.br",
       "horariosEntrega": {
-        "segunda": "06:00 - 22:00",
-        "terca": "06:00 - 22:00", 
-        "quarta": "06:00 - 22:00",
-        "quinta": "06:00 - 22:00",
-        "sexta": "06:00 - 22:00",
-        "sabado": "06:00 - 22:00",
-        "domingo": "06:00 - 22:00"
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "RESTAURANTE BARREIRAS": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Barreiras",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5678",
+      "horariosEntrega": {
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
+      }
+    },
+    "RESTAURANTE PRESIDENTE VENCESLAU": {
+      "endereco": "Rua Principal, 123 - Centro",
+      "cidade": "Presidente Venceslau",
+      "estado": "MG",
+      "cep": "38000-000",
+      "telefone": "(34) 3234-5678",
+      "contato": "Gerente - João Silva",
+      "email": "presidentevenceslau@grupodecio.com.br",
+      "horariosEntrega": {
+        "segunda": "08:00 - 17:00",
+        "terca": "08:00 - 17:00", 
+        "quarta": "08:00 - 17:00",
+        "quinta": "08:00 - 17:00",
+        "sexta": "08:00 - 17:00",
+        "sabado": "08:00 - 12:00",
+        "domingo": "Não há entrega"
       }
     }
   }
