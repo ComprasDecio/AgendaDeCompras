@@ -552,7 +552,7 @@
     </div>
   </main>
 
-  <!-- Pop-up de alerta inicial (COMENTADO - PODE SER REATIVADO DEPOIS) 
+  <!-- Pop-up de alerta inicial (COMENTADO - PODE SER REATIVADO DEPOIS) --> 
   <div id="popupAlert" class="modal">
     <div class="modal-content">
       <span class="close" onclick="fecharPopup()">&times;</span>
@@ -561,11 +561,11 @@
           <span class="alert-header">Atenção feriado prolongado:</span>
         </p>
         <p style="font-size: 1.1rem; text-align: center;">
-          Devido ao feriado prolongado neste mês, solicitamos que ajustem suas previsões de demanda considerando a sazonalidade desse período.
+          Devido ao fim de semana, a agenda de BRSupply foi antecipada para o dia 31/10 e ficara aberta até o dia 03/11.
         </p>
       </div>
     </div>
-  </div> -->
+  </div> 
 
   <!-- jQuery -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -797,11 +797,11 @@
     }
 
     // Função para fechar o pop-up inicial (COMENTADA - PODE SER REATIVADA DEPOIS)
-    /*
+    
     function fecharPopup() {
       document.getElementById("popupAlert").style.display = "none";
     }
-    */
+    
 
     function mudarMes(direcao) {
       mesAtual += direcao;
@@ -851,7 +851,7 @@
         
         
         // Linha comentada para evitar o erro (pode ser reativada quando o popup for necessário)
-        // document.getElementById("popupAlert").style.display = "block";
+         document.getElementById("popupAlert").style.display = "block";
       } catch (error) {
         console.error('Erro ao carregar os dados:', error);
         alert('Erro ao carregar os dados. Verifique o console para mais detalhes.');
