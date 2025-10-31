@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -32,6 +33,7 @@
     .header {
       text-align: center;
       margin-bottom: 40px;
+      position: relative;
     }
     .header img {
       max-width: 200px;
@@ -44,20 +46,57 @@
       font-weight: 500;
       font-size: 2rem;
     }
+    /* Botão toggle */
+    .toggle-button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      background: linear-gradient(135deg, #0056b3, #003d80);
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 25px;
+      cursor: pointer;
+      font-weight: 500;
+      font-size: 0.9rem;
+      box-shadow: 0 2px 8px rgba(0, 86, 179, 0.3);
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .toggle-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 86, 179, 0.4);
+    }
+    .toggle-button.active {
+      background: linear-gradient(135deg, #28a745, #20c997);
+    }
+    .toggle-icon {
+      font-size: 1.1rem;
+    }
     /* Container principal */
     .container {
       max-width: 1200px;
       margin: 0 auto;
     }
-    /* Filtro */
+    /* Filtros */
+    .filtros-container {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 30px;
+      flex-wrap: wrap;
+    }
     .filtro {
       text-align: center;
-      margin-bottom: 30px;
     }
     .filtro label {
       font-size: 1.1rem;
       margin-right: 10px;
       font-weight: 500;
+      display: block;
+      margin-bottom: 5px;
     }
     .filtro select {
       padding: 10px 15px;
@@ -142,9 +181,18 @@
       border-color: #0056b3;
       font-weight: 500;
     }
+    .calendar__day.has-entrega {
+      background-color: #e8f8e8;
+      border-color: #28a745;
+      font-weight: 500;
+    }
     .calendar__day.selected {
       background-color: #cce5ff;
       border: 2px solid #003d80;
+    }
+    .calendar__day.selected.has-entrega {
+      background-color: #d4edda;
+      border: 2px solid #155724;
     }
     /* Modal padrão (detalhes dos dias) */
     .modal {
@@ -238,6 +286,16 @@
       body {
         padding: 20px;
       }
+      .toggle-button {
+        position: relative;
+        margin: 0 auto 20px;
+        top: auto;
+        right: auto;
+      }
+      .filtros-container {
+        flex-direction: column;
+        align-items: center;
+      }
       .calendar {
         padding: 15px;
         gap: 5px;
@@ -262,45 +320,237 @@
         margin: 20% auto;
       }
     }
+    /* Sidebar */
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 220px;
+      height: 100vh;
+      background: linear-gradient(135deg, #003d80 70%, #0056b3 100%);
+      padding-top: 40px;
+      box-shadow: 2px 0 8px rgba(0,0,0,0.07);
+      z-index: 1100;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      transition: width 0.3s cubic-bezier(.4,2,.6,1), background 0.3s;
+    }
+    .sidebar.minimized {
+      width: 60px;
+      padding-top: 20px;
+    }
+    .sidebar-toggle {
+      position: absolute;
+      top: 10px;
+      right: -18px;
+      background: #fff;
+      border: 1px solid #0056b3;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      transition: right 0.3s;
+      z-index: 1200;
+    }
+    .sidebar.minimized .sidebar-toggle {
+      right: -18px;
+    }
+    .sidebar ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+      margin-top: 40px;
+    }
+    .sidebar-btn {
+      width: 90%;
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 1.1rem;
+      padding: 16px 0 16px 12px;
+      margin: 10px 0;
+      text-align: left;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s, font-size 0.2s;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+    }
+    .sidebar-btn.active, .sidebar-btn:hover {
+      background: #fff;
+      color: #0056b3;
+      font-weight: 700;
+    }
+    .sidebar-icon {
+      font-size: 1.4rem;
+      display: inline-block;
+      min-width: 28px;
+      text-align: center;
+    }
+    .sidebar-text {
+      transition: opacity 0.2s, width 0.2s;
+      white-space: normal;
+      overflow: visible;
+    }
+    .sidebar.minimized .sidebar-text {
+      opacity: 0;
+      width: 0;
+      padding: 0;
+    }
+    .sidebar.minimized .sidebar-btn {
+      justify-content: center;
+      padding-left: 0;
+      font-size: 1.3rem;
+    }
+    .sidebar-bottom {
+      margin-top: auto;
+      padding: 20px 0;
+      width: 100%;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .sidebar-btn-reclamacao {
+      width: 100%;
+      margin: 0;
+      background: linear-gradient(135deg, #ff6b6b, #ee5a52) !important;
+      color: #fff !important;
+      border: none;
+      transition: all 0.3s ease;
+    }
+    .sidebar-btn-reclamacao:hover {
+      background: linear-gradient(135deg, #ff5252, #d32f2f) !important;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(255, 107, 107, 0.3);
+    }
+    .sidebar.minimized .sidebar-bottom {
+      padding: 15px 0;
+    }
+    .main-content {
+      margin-left: 220px;
+      padding: 0;
+      min-height: 100vh;
+      background: inherit;
+      transition: margin-left 0.3s cubic-bezier(.4,2,.6,1);
+    }
+    .sidebar.minimized ~ .main-content {
+      margin-left: 60px;
+    }
+    @media (max-width: 900px) {
+      .sidebar {
+        width: 60px;
+        padding-top: 20px;
+      }
+      .sidebar-btn {
+        font-size: 0.9rem;
+        padding: 12px 0;
+        width: 100%;
+      }
+      .main-content {
+        margin-left: 60px;
+      }
+      .sidebar-text {
+        display: none;
+      }
+    }
+    @media (max-width: 600px) {
+      .sidebar {
+        position: static;
+        width: 100%;
+        height: auto;
+        flex-direction: row;
+        box-shadow: none;
+        padding: 0;
+      }
+      .sidebar ul {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-around;
+        margin-top: 0;
+      }
+      .sidebar-btn {
+        width: 100%;
+        border-radius: 0;
+        margin: 0;
+        padding: 10px 0;
+        justify-content: center;
+      }
+      .main-content {
+        margin-left: 0;
+      }
+      .sidebar-toggle {
+        display: none;
+      }
+    }
   </style>
 </head>
 <body>
-  <div class="header">
-    <img
-      src="XKrYcd33yRbS2HlTduA4NZedZMZ6FkAB20urJsfW-removebg-preview.png"
-      alt="Logo Decio"
-    />
-  </div>
+  <nav class="sidebar" id="sidebar">
+    <button class="sidebar-toggle" onclick="toggleSidebar()" title="Minimizar/Expandir Menu">
+      <span id="sidebarToggleIcon">⏪</span>
+    </button>
+    <ul>
+      <li><button class="sidebar-btn active"><span class="sidebar-icon">🗓️</span><span class="sidebar-text">Agenda de Compras</span></button></li>
+    </ul>
+    <div class="sidebar-bottom">
+      <button class="sidebar-btn sidebar-btn-reclamacao" onclick="abrirReclamacao()" title="Abra sua reclamação">
+        <span class="sidebar-icon">📢</span>
+        <span class="sidebar-text">Abra sua reclamação</span>
+      </button>
+    </div>
+  </nav>
+  <main class="main-content" id="mainContent">
+    <div class="header">
+      <img
+        src="logoDecio.png"
+        alt="Logo Decio"
+      />
+      <button id="toggleButton" class="toggle-button" onclick="toggleModoVisualizacao()">
+        <span class="toggle-icon">📅</span>
+        <span id="toggleText">Solicitação</span>
+      </button>
+    </div>
+    <div class="container">
+      <h1>Calendário de Compras</h1>
+      <!-- Filtros -->
+      <div class="filtros-container">
+        <div class="filtro">
+          <label for="unidade">Filtrar por Unidade:</label>
+          <select id="unidade" onchange="aplicarFiltros()"></select>
+        </div>
+        <div class="filtro">
+          <label for="categoria">Filtrar por Categoria:</label>
+          <select id="categoria" onchange="aplicarFiltros()"></select>
+        </div>
+      </div>
+      <!-- Navegação de Meses -->
+      <div class="navegacao-meses">
+        <button onclick="mudarMes(-1)">Mês Anterior</button>
+        <span id="mesAnoDisplay"></span>
+        <button onclick="mudarMes(1)">Próximo Mês</button>
+      </div>
+      <!-- Calendário dinâmico -->
+      <div class="calendar" id="calendar">
+        <!-- O calendário será gerado via JavaScript -->
+      </div>
+    </div>
 
-  <div class="container">
-    <h1>Calendário de Compras</h1>
-    
-    <!-- Filtro por Unidade com select pesquisável -->
-    <div class="filtro">
-      <label for="unidade">Filtrar por Unidade:</label>
-      <select id="unidade" onchange="filtrarPorUnidade()"></select>
+    <!-- Modal para exibir detalhes dos dias -->
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="fecharModal()">&times;</span>
+        <div id="detailsContent"></div>
+      </div>
     </div>
-    
-    <!-- Navegação de Meses -->
-    <div class="navegacao-meses">
-      <button onclick="mudarMes(-1)">Mês Anterior</button>
-      <span id="mesAnoDisplay"></span>
-      <button onclick="mudarMes(1)">Próximo Mês</button>
-    </div>
-
-    <!-- Calendário dinâmico -->
-    <div class="calendar" id="calendar">
-      <!-- O calendário será gerado via JavaScript -->
-    </div>
-  </div>
-
-  <!-- Modal para exibir detalhes dos dias -->
-  <div id="modal" class="modal">
-    <div class="modal-content">
-      <span class="close" onclick="fecharModal()">&times;</span>
-      <div id="detailsContent"></div>
-    </div>
-  </div>
+  </main>
 
   <!-- Pop-up de alerta inicial (COMENTADO - PODE SER REATIVADO DEPOIS) 
   <div id="popupAlert" class="modal">
@@ -321,10 +571,16 @@
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <!-- Select2 JS -->
   <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+  <!-- jsPDF para gerar PDF -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 
   <script>
     let dados = [];
+    let dadosFiltrados = [];
     let unidadesGlobais = [];
+    let categoriasGlobais = [];
+    let modoEntrega = false; // false = abertura, true = entrega
+    
 
     let dataAtual = new Date();
     let mesAtual = dataAtual.getMonth();
@@ -347,31 +603,74 @@
       mesAnoDisplay.textContent = `${meses[mesAtual]} ${anoAtual}`;
     }
 
-    function gerarOpcoesFilial() {
+    function gerarOpcoesFiltros() {
+      // Gerar opções de unidade
       const selectUnidade = document.getElementById('unidade');
       selectUnidade.innerHTML = '<option value="">Todas as Unidades</option>';
       const unidadesSet = new Set();
+      
+      // Gerar opções de categoria
+      const selectCategoria = document.getElementById('categoria');
+      selectCategoria.innerHTML = '<option value="">Todas as Categorias</option>';
+      const categoriasSet = new Set();
+      
       dados.forEach(item => {
         if (item.filial) {
           unidadesSet.add(item.filial);
         }
+        if (item.categoria) {
+          categoriasSet.add(item.categoria);
+        }
       });
+      
       const unidades = Array.from(unidadesSet).sort();
+      const categorias = Array.from(categoriasSet).sort();
+      
       unidadesGlobais = unidades;
+      categoriasGlobais = categorias;
+      
       unidades.forEach(unidade => {
         const option = document.createElement('option');
         option.value = unidade;
         option.textContent = unidade;
         selectUnidade.appendChild(option);
       });
+      
+      categorias.forEach(categoria => {
+        const option = document.createElement('option');
+        option.value = categoria;
+        option.textContent = categoria;
+        selectCategoria.appendChild(option);
+      });
+      
+      // Configurar Select2
       $(selectUnidade).select2({
         placeholder: 'Todas as Unidades',
         allowClear: true,
         width: 'resolve'
       });
+      
+      $(selectCategoria).select2({
+        placeholder: 'Todas as Categorias',
+        allowClear: true,
+        width: 'resolve'
+      });
     }
 
-    function gerarCalendario(unidadeSelecionada = '') {
+    function aplicarFiltros() {
+      const unidadeSelecionada = document.getElementById('unidade').value;
+      const categoriaSelecionada = document.getElementById('categoria').value;
+      
+      dadosFiltrados = dados.filter(item => {
+        const matchUnidade = !unidadeSelecionada || item.filial === unidadeSelecionada;
+        const matchCategoria = !categoriaSelecionada || item.categoria === categoriaSelecionada;
+        return matchUnidade && matchCategoria;
+      });
+      
+      gerarCalendario();
+    }
+
+    function gerarCalendario() {
       const calendarElement = document.getElementById('calendar');
       calendarElement.innerHTML = '';
 
@@ -401,26 +700,26 @@
         calendarElement.appendChild(diaCell);
       }
 
-      const comprasFiltradas = dados.filter(item => {
-        let [diaStr, mesStr, anoStr] = item.dataAbertura.split('/');
+      // Filtrar dados do mês atual
+      const dadosDoMes = dadosFiltrados.filter(item => {
+        let [diaStr, mesStr, anoStr] = modoEntrega ? item.previsaoEntrega.split('/') : item.dataAbertura.split('/');
         const mesItem = parseInt(mesStr) - 1;
         const anoItem = parseInt(anoStr);
-        if (unidadeSelecionada) {
-          return (
-            item.filial === unidadeSelecionada &&
-            mesItem === mesAtual &&
-            anoItem === anoAtual
-          );
-        }
         return mesItem === mesAtual && anoItem === anoAtual;
       });
 
-      comprasFiltradas.forEach(compra => {
-        const diaCompra = parseInt(compra.dataAbertura.split('/')[0]);
-        const index = 7 + offset + (diaCompra - 1);
+      // Marcar dias no calendário
+      dadosDoMes.forEach(item => {
+        const dataRelevante = modoEntrega ? item.previsaoEntrega : item.dataAbertura;
+        const diaItem = parseInt(dataRelevante.split('/')[0]);
+        const index = 7 + offset + (diaItem - 1);
         const diaElement = calendarElement.children[index];
         if (diaElement) {
-          diaElement.classList.add('has-agenda');
+          if (modoEntrega) {
+            diaElement.classList.add('has-entrega');
+          } else {
+            diaElement.classList.add('has-agenda');
+          }
         }
       });
     }
@@ -430,6 +729,7 @@
       const detailsContentElement = document.getElementById('detailsContent');
       const diasElements = calendarElement.querySelectorAll('.calendar__day');
       diasElements.forEach(element => element.classList.remove('selected'));
+      
       const primeiroDiaJS = new Date(anoAtual, mesAtual, 1).getDay();
       const offset = primeiroDiaJS === 0 ? 6 : primeiroDiaJS - 1;
       const index = 7 + offset + (dia - 1);
@@ -437,20 +737,17 @@
       if (diaElement) {
         diaElement.classList.add('selected');
       }
+      
       const unidadeSelecionada = document.getElementById('unidade').value;
-      const comprasDoDia = dados.filter(item => {
-        let [diaStr, mesStr, anoStr] = item.dataAbertura.split('/');
+      const categoriaSelecionada = document.getElementById('categoria').value;
+      
+      const comprasDoDia = dadosFiltrados.filter(item => {
+        const dataRelevante = modoEntrega ? item.previsaoEntrega : item.dataAbertura;
+        let [diaStr, mesStr, anoStr] = dataRelevante.split('/');
         const diaItem = parseInt(diaStr);
         const mesItem = parseInt(mesStr) - 1;
         const anoItem = parseInt(anoStr);
-        if (unidadeSelecionada) {
-          return (
-            diaItem === parseInt(dia) &&
-            mesItem === mesAtual &&
-            anoItem === anoAtual &&
-            item.filial === unidadeSelecionada
-          );
-        }
+        
         return diaItem === parseInt(dia) && mesItem === mesAtual && anoItem === anoAtual;
       });
 
@@ -476,6 +773,25 @@
       document.getElementById('modal').style.display = 'block';
     }
 
+    function toggleModoVisualizacao() {
+      modoEntrega = !modoEntrega;
+      const toggleButton = document.getElementById('toggleButton');
+      const toggleText = document.getElementById('toggleText');
+      const toggleIcon = document.querySelector('.toggle-icon');
+      
+      if (modoEntrega) {
+        toggleButton.classList.add('active');
+        toggleText.textContent = 'Entrega';
+        toggleIcon.textContent = '📦';
+      } else {
+        toggleButton.classList.remove('active');
+        toggleText.textContent = 'Solicitação';
+        toggleIcon.textContent = '📅';
+      }
+      
+      gerarCalendario();
+    }
+
     function fecharModal() {
       document.getElementById('modal').style.display = 'none';
     }
@@ -487,14 +803,6 @@
     }
     */
 
-    function filtrarPorUnidade() {
-      const unidadeSelecionada = document.getElementById('unidade').value;
-      gerarCalendario(unidadeSelecionada);
-      const calendarElement = document.getElementById('calendar');
-      const dias = calendarElement.querySelectorAll('.calendar__day');
-      dias.forEach(diaElement => diaElement.classList.remove('selected'));
-    }
-
     function mudarMes(direcao) {
       mesAtual += direcao;
       if (mesAtual < 0) {
@@ -505,20 +813,42 @@
         anoAtual += 1;
       }
       atualizarTituloMes();
-      const unidadeSelecionada = document.getElementById('unidade').value;
-      gerarCalendario(unidadeSelecionada);
+      gerarCalendario();
     }
+
+
+    // Minimizar/Expandir Sidebar
+    function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      const mainContent = document.getElementById('mainContent');
+      sidebar.classList.toggle('minimized');
+      // Ajusta o ícone do botão
+      const icon = document.getElementById('sidebarToggleIcon');
+      if (sidebar.classList.contains('minimized')) {
+        icon.textContent = '⏩';
+      } else {
+        icon.textContent = '⏪';
+      }
+    }
+
+    function abrirReclamacao() {
+      window.open('https://www.cervelloesm.com.br/GrupoDecio/Workflow/CatalogoServico/SubMenu?p=pkyM4%2FqIy0E%3D&m=lq8IF7Xgai4%3D&u=pkyM4%2FqIy0E%3D', '_blank');
+    }
+
 
     window.onload = async function () {
       try {
+        // Carregar dados da agenda
         const response = await fetch('agenda.json');
         if (!response.ok) {
           throw new Error(`Erro ao carregar o JSON: ${response.statusText}`);
         }
         dados = await response.json();
-        gerarOpcoesFilial();
+        dadosFiltrados = dados; // Inicialmente, todos os dados
+        gerarOpcoesFiltros();
         atualizarTituloMes();
         gerarCalendario();
+        
         
         // Linha comentada para evitar o erro (pode ser reativada quando o popup for necessário)
         // document.getElementById("popupAlert").style.display = "block";
