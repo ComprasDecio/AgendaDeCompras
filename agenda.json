@@ -23457,78 +23457,6 @@
     {
        "dataAbertura":"03/11/2025",
        "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE MINEIROS",
-       "previsaoEntrega":"11/11/2025"
-    },
-    {
-       "dataAbertura":"10/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE MINEIROS",
-       "previsaoEntrega":"18/11/2025"
-    },
-    {
-       "dataAbertura":"17/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE MINEIROS",
-       "previsaoEntrega":"25/11/2025"
-    },
-    {
-       "dataAbertura":"24/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE MINEIROS",
-       "previsaoEntrega":"02/12/2025"
-    },
-    {
-       "dataAbertura":"03/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE RIO VERDE",
-       "previsaoEntrega":"11/11/2025"
-    },
-    {
-       "dataAbertura":"10/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE RIO VERDE",
-       "previsaoEntrega":"18/11/2025"
-    },
-    {
-       "dataAbertura":"17/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE RIO VERDE",
-       "previsaoEntrega":"25/11/2025"
-    },
-    {
-       "dataAbertura":"24/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE RIO VERDE",
-       "previsaoEntrega":"02/12/2025"
-    },
-    {
-       "dataAbertura":"03/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE CEZARINA",
-       "previsaoEntrega":"11/11/2025"
-    },
-    {
-       "dataAbertura":"10/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE CEZARINA",
-       "previsaoEntrega":"18/11/2025"
-    },
-    {
-       "dataAbertura":"17/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE CEZARINA",
-       "previsaoEntrega":"25/11/2025"
-    },
-    {
-       "dataAbertura":"24/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
-       "filial":"RESTAURANTE CEZARINA",
-       "previsaoEntrega":"02/12/2025"
-    },
-    {
-       "dataAbertura":"03/11/2025",
-       "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
        "filial":"RESTAURANTE PRES. VENCESLAU",
        "previsaoEntrega":"11/11/2025"
     },
@@ -25409,6 +25337,78 @@
        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
        "filial":"CONVENIENCIA L14",
        "previsaoEntrega":"03/12/2025"
-    }
+    },
+    {
+      "dataAbertura":"05/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE MINEIROS",
+      "previsaoEntrega":"13/11/2025"
+  },
+  {
+      "dataAbertura":"12/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE MINEIROS",
+      "previsaoEntrega":"20/11/2025"
+  },
+  {
+      "dataAbertura":"19/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE MINEIROS",
+      "previsaoEntrega":"27/11/2025"
+  },
+  {
+      "dataAbertura":"26/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE MINEIROS",
+      "previsaoEntrega":"04/12/2025"
+  },
+  {
+      "dataAbertura":"05/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE RIO VERDE",
+      "previsaoEntrega":"13/11/2025"
+  },
+  {
+      "dataAbertura":"12/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE RIO VERDE",
+      "previsaoEntrega":"20/11/2025"
+  },
+  {
+      "dataAbertura":"19/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE RIO VERDE",
+      "previsaoEntrega":"27/11/2025"
+  },
+  {
+      "dataAbertura":"26/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE RIO VERDE",
+      "previsaoEntrega":"04/12/2025"
+  },
+  {
+      "dataAbertura":"05/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE CEZARINA",
+      "previsaoEntrega":"13/11/2025"
+  },
+  {
+      "dataAbertura":"12/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE CEZARINA",
+      "previsaoEntrega":"20/11/2025"
+  },
+  {
+      "dataAbertura":"19/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE CEZARINA",
+      "previsaoEntrega":"27/11/2025"
+  },
+  {
+      "dataAbertura":"26/11/2025",
+      "categoria":"PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+      "filial":"RESTAURANTE CEZARINA",
+      "previsaoEntrega":"04/12/2025"
+  }
 ]
 
