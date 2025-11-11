@@ -25408,7 +25408,369 @@
    "categoria":"QUIM-AROMATIZANTES",
    "filial":"POSTO ALTO DA CIDADE",
    "previsaoEntrega":"14/12/2025"
-}
+},
+
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L2"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L3"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L4"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L5"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L6"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L7"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L14"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ALTO DA CIDADE"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ARAPORA"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO BARREIRAS"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO CAMPINA VERDE"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO CENTRALINA"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO BURITI"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ITUIUTABA"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO MINEIROS"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO OLHOS D'AGUA"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO PARADA BONITA"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO PRES. VENCESLAU"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO RIO VERDE"
+    },
+    {
+        "dataAbertura":"20/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO UBERLANDIA"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L2"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L3"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L4"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L5"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L6"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L7"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L14"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ALTO DA CIDADE"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ARAPORA"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO BARREIRAS"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO CAMPINA VERDE"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO CENTRALINA"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO BURITI"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ITUIUTABA"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO MINEIROS"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO OLHOS D'AGUA"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO PARADA BONITA"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO PRES. VENCESLAU"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO RIO VERDE"
+    },
+    {
+        "dataAbertura":"21/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO UBERLANDIA"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L2"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L3"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L4"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L5"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L6"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L7"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO DECIO L14"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ALTO DA CIDADE"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ARAPORA"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO BARREIRAS"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO CAMPINA VERDE"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO CENTRALINA"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO BURITI"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO ITUIUTABA"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO MINEIROS"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO OLHOS D'AGUA"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO PARADA BONITA"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO PRES. VENCESLAU"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO RIO VERDE"
+    },
+    {
+        "dataAbertura":"22/11/2025",
+        "categoria":"LUBRIFICANTES",
+        "previsaoEntrega":"01/12/2025",
+        "CONVENIENCIA":"POSTO UBERLANDIA"
+    }
 ]
+
 
 
