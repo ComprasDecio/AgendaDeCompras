@@ -20314,5 +20314,881 @@
         "categoria":"Equipamentos T.I",
         "filial":"ACESSORIOS CEZARINA",
         "previsaoEntrega":"16/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"14/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"21/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"28/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BURITI",
+        "previsaoEntrega":"04/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega":"14/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega":"21/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega":"28/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega":"04/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"14/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"21/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"28/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PARADA BONITA",
+        "previsaoEntrega":"04/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"14/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"21/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"28/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE UBERLANDIA",
+        "previsaoEntrega":"04/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CENTRALINA",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ARAPORA",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE ITUIUTABA",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE MINEIROS",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE RIO VERDE",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CEZARINA",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CEZARINA",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CEZARINA",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE CEZARINA",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE BARREIRAS",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"06/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"16/01/2026"
+    },
+    {
+        "dataAbertura":"13/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"23/01/2026"
+    },
+    {
+        "dataAbertura":"20/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"30/01/2026"
+    },
+    {
+        "dataAbertura":"27/01/2026",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"RESTAURANTE GURUPI",
+        "previsaoEntrega":"06/02/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA BURITI",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA BURITI",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA BURITI",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA BURITI",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA BURITI",
+        "previsaoEntrega":"07/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega":"07/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega":"07/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega":"07/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CENTRALINA",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CENTRALINA",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CENTRALINA",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CENTRALINA",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CENTRALINA",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ARAPORA",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ARAPORA",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ARAPORA",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ARAPORA",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ARAPORA",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA RIO VERDE",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA RIO VERDE",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA RIO VERDE",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA RIO VERDE",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA RIO VERDE",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CEZARINA",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CEZARINA",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CEZARINA",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CEZARINA",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA CEZARINA",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA GURUPI",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA GURUPI",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA GURUPI",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA GURUPI",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA GURUPI",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L2",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L2",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L2",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L2",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L2",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L3",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L3",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L3",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L3",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L3",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L4",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L4",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L4",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L4",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L4",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L5",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L5",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L5",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L5",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L5",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L6",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L6",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L6",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L6",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L6",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L7",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L7",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L7",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L7",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L7",
+        "previsaoEntrega":"09/01/2026"
+    },
+    {
+        "dataAbertura":"02/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L14",
+        "previsaoEntrega":"10/12/2025"
+    },
+    {
+        "dataAbertura":"09/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L14",
+        "previsaoEntrega":"17/12/2025"
+    },
+    {
+        "dataAbertura":"16/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L14",
+        "previsaoEntrega":"24/12/2025"
+    },
+    {
+        "dataAbertura":"23/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L14",
+        "previsaoEntrega":"31/12/2025"
+    },
+    {
+        "dataAbertura":"30/12/2025",
+        "categoria":"SECOS / MERCEARIA / CONFEITARIA",
+        "filial":"CONVENIENCIA L14",
+        "previsaoEntrega":"09/01/2026"
     }
 ]
