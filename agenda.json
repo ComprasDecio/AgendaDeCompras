@@ -20122,5 +20122,60 @@
         "filial": "CONVENIENCIA CEZARINA",
         "previsaoEntrega": "16/03/2026",
         "categoria": "Equipamentos T.I"
+    },
+    
+    {
+        "dataAbertura": "04/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L2",
+        "previsaoEntrega": "20/02/2026"
+    },
+    {
+        "dataAbertura": "04/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L3",
+        "previsaoEntrega": "24/02/2026"
+    },
+    {
+        "dataAbertura": "04/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L4",
+        "previsaoEntrega": "20/02/2026"
+    },
+    {
+        "dataAbertura": "04/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L17",
+        "previsaoEntrega": "20/02/2026"
+    },
+    {
+        "dataAbertura": "18/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L5",
+        "previsaoEntrega": "02/03/2026"
+    },
+    {
+        "dataAbertura": "18/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L6",
+        "previsaoEntrega": "10/03/2026"
+    },
+    {
+        "dataAbertura": "18/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L7",
+        "previsaoEntrega": "02/03/2026"
+    },
+    {
+        "dataAbertura": "18/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L13",
+        "previsaoEntrega": "02/03/2026"
+    },
+    {
+        "dataAbertura": "18/02/2026",
+        "categoria": "PALHETAS - ADITIVOS",
+        "filial": "POSTO DECIO L14",
+        "previsaoEntrega": "02/03/2026"
     }
 ]
