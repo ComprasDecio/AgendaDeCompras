@@ -11095,7 +11095,7 @@
     },
     {
         "dataAbertura": "01/04/2026",
-        "categoria": "DOCES ",
+        "categoria": "DOCES",
         "filial": "RESTAURANTE BARREIRAS",
         "previsaoEntrega": "01/05/2026"
     },
@@ -17703,7 +17703,7 @@
     
     {
         "dataAbertura": "03/03/2026",
-        "categoria": "DOCES ",
+        "categoria": "DOCES",
         "filial": "RESTAURANTE BARREIRAS",
         "previsaoEntrega": "02/04/2026"
     },
@@ -17948,6 +17948,7 @@
         "previsaoEntrega": "26/03/2026"
     }
 ]
+
 
 
 
