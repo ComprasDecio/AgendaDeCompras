@@ -18115,10 +18115,6534 @@
         "categoria": "LUBRIFICANTES",
         "filial": "POSTO UBERLANDIA",
         "previsaoEntrega": "11/04/2026"
+    },
+
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "14/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "14/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "ENERGETICO RED BULL",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "04/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "08/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "10/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "11/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "18/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "22/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "24/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "02/05/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "04/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "08/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "10/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "22/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "24/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "06/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "10/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "13/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "24/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "HORTIFRUTI",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "18/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "02/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "11/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "19/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "19/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "19/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "10/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "13/04/2026"
+    },
+    {
+        "dataAbertura": "24/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "26/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "13/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "19/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "26/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "06/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "08/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "13/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "22/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "OVO",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "08/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "22/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "08/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "22/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "08/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "22/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "07/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "25/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "03/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Utensilios, Equipamentos ",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO UBERLANDIA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Brindes ",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "04/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "EPI's",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "03/05/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "Despesas Central",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "15/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "10/05/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "18/04/2026",
+        "categoria": "BR SUPPLY",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Carvão",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "Despesas Central",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO ITUIUTABA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO PARADA BONITA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO ARAPORA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO CAMPINA VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO RIO VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO CENTRALINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO OLHOS D'AGUA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO MINEIROS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO BARREIRAS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO PRES. VENCESLAU",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO GURUPI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "DECIO CENTRAL ADMINISTRATIVA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "HOTEL BURITI",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO CEZARINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "11/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "08/05/2026"
     }
 ]
-
-
-
-
-
