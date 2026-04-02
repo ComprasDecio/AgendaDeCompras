@@ -33142,7 +33142,1173 @@
         "categoria": "PANIFICAÇÃO",
         "filial": "CONVENIENCIA L14",
         "previsaoEntrega": "05/05/2026"
+    },
+    
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "01/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "02/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "20/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "29/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SALGADOS",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "19/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "19/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "08/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "19/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "10/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "13/04/2026"
+    },
+    {
+        "dataAbertura": "24/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "27/04/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "09/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "16/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "23/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "30/04/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "02/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "07/04/2026"
+    },
+    {
+        "dataAbertura": "09/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "14/04/2026"
+    },
+    {
+        "dataAbertura": "16/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "21/04/2026"
+    },
+    {
+        "dataAbertura": "23/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "30/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "05/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "17/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "26/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "PANIFICAÇÕES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "29/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "15/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "22/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "28/04/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "06/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "07/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "14/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "01/05/2026"
+    },
+    {
+        "dataAbertura": "28/04/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "08/05/2026"
+    },
+    {
+        "dataAbertura": "06/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "10/04/2026"
+    },
+    {
+        "dataAbertura": "13/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "17/04/2026"
+    },
+    {
+        "dataAbertura": "20/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "24/04/2026"
+    },
+    {
+        "dataAbertura": "27/04/2026",
+        "categoria": "MASSAS DOCES",
+        "filial": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "01/05/2026"
     }
 ]
+
 
 
