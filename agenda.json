@@ -32500,5 +32500,102 @@
         "categoria":  "PANIFICAÃ‡ÃƒO",
         "filial":  "CONVENIENCIA L14",
         "previsaoEntrega":  "02/06/2026"
+    },
+    
+    {
+        "dataAbertura": "13/05/2026",
+        "categoria": "PALHETAS - ADITIVOS - AROMATIZANTES",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "27/05/2026"
+    },
+    {
+        "dataAbertura": "27/05/2026",
+        "categoria": "PALHETAS - ADITIVOS - AROMATIZANTES",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "11/05/2026",
+        "categoria": "GRUPO FILTROS",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "26/05/2026"
+    },
+    {
+        "dataAbertura": "11/05/2026",
+        "categoria": "LUBRIFICANTES",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "26/05/2026"
+    },
+    {
+        "dataAbertura": "25/05/2026",
+        "categoria": "GRUPO FILTROS",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "08/06/2026"
+    },
+    {
+        "dataAbertura": "25/05/2026",
+        "categoria": "LUBRIFICANTES",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "08/06/2026"
+    },
+    {
+        "dataAbertura": "04/05/2026",
+        "categoria": "ISQUEIRO - CADEADOS ",
+        "filial": "CONVENIENCIA PIRANHAS",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "18/05/2026",
+        "categoria": "ISQUEIRO - CADEADOS ",
+        "filial": "CONVENIENCIA PIRANHAS ",
+        "previsaoEntrega": "01/06/2026"
+    },
+    {
+        "dataAbertura": "04/05/2026",
+        "categoria": "VAR. HIGIENE PESSOAL",
+        "filial": "CONVENIENCIA PIRANHAS ",
+        "previsaoEntrega": "18/05/2026"
+    },
+    {
+        "dataAbertura": "18/05/2026",
+        "categoria": "VAR. HIGIENE PESSOAL",
+        "filial": "CONVENIENCIA PIRANHAS",
+        "previsaoEntrega": "01/06/2026"
+    },
+    {
+        "dataAbertura": "25/05/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "08/06/2026"
+    },
+    {
+        "dataAbertura": "25/05/2026",
+        "categoria": "Descartáveis, limpeza e  higiene",
+        "filial": "CONVENIENCIA PIRANHAS ",
+        "previsaoEntrega": "08/06/2026"
+    },
+    {
+        "dataAbertura": "25/05/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "15/06/2026"
+    },
+    {
+        "dataAbertura": "25/05/2026",
+        "categoria": "Personalizados (bobinas, etiquetas, sacolas)",
+        "filial": "CONVENIENCIA PIRANHAS ",
+        "previsaoEntrega": "15/06/2026"
+    },
+    {
+        "dataAbertura": "18/05/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "POSTO PIRANHAS ",
+        "previsaoEntrega": "08/06/2026"
+    },
+    {
+        "dataAbertura": "18/05/2026",
+        "categoria": "Equipamentos T.I",
+        "filial": "CONVENIENCIA PIRANHAS ",
+        "previsaoEntrega": "08/06/2026"
     }
 ]
