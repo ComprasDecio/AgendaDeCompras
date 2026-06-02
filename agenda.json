@@ -48980,8 +48980,1090 @@
         "categoria": "Equipamentos T.I",
         "filial": "CONVENIENCIA CEZARINA",
         "previsaoEntrega": "20/07/2026"
+    },
+    
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA OLHOS DAGUA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "05/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "14/05/2026"
+    },
+    {
+        "dataAbertura": "12/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "20/05/2026"
+    },
+    {
+        "dataAbertura": "19/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "27/05/2026"
+    },
+    {
+        "dataAbertura": "26/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "03/06/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "05/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "14/05/2026"
+    },
+    {
+        "dataAbertura": "12/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "20/05/2026"
+    },
+    {
+        "dataAbertura": "19/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "27/05/2026"
+    },
+    {
+        "dataAbertura": "26/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "03/06/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "05/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "14/05/2026"
+    },
+    {
+        "dataAbertura": "12/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "20/05/2026"
+    },
+    {
+        "dataAbertura": "19/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "27/05/2026"
+    },
+    {
+        "dataAbertura": "26/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "03/06/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA CEZARINA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "05/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "14/05/2026"
+    },
+    {
+        "dataAbertura": "12/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "20/05/2026"
+    },
+    {
+        "dataAbertura": "19/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "27/05/2026"
+    },
+    {
+        "dataAbertura": "26/05/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "03/06/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "05/06/2026"
+    },
+    {
+        "dataAbertura": "08/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "15/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "22/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "29/06/2026",
+        "categoria": "MASSAS DOCES",
+        "filial ": "CONVENIENCIA GURUPI",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BURITI",
+        "previsaoEntrega": "10/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BURITI",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BURITI",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BURITI",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BURITI",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "09/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE OLHOS DAGUA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "09/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "09/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "17/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "24/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "01/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "08/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "11/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "11/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "11/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE PRES. VENCESLAU",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "10/07/2026"
+    },
+    {
+        "dataAbertura": "01/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "12/06/2026"
+    },
+    {
+        "dataAbertura": "09/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "19/06/2026"
+    },
+    {
+        "dataAbertura": "16/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "26/06/2026"
+    },
+    {
+        "dataAbertura": "23/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "03/07/2026"
+    },
+    {
+        "dataAbertura": "30/06/2026",
+        "categoria": "SECOS / MERCEARIA / CONFEITARIA",
+        "filial ": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "10/07/2026"
     }
 ]
+
 
 
 
