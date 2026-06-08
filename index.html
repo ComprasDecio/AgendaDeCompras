@@ -590,6 +590,10 @@
     let mesAtual = dataAtual.getMonth();
     let anoAtual = dataAtual.getFullYear();
 
+    function getFilial(item) {
+      return item.filial || item["filial "] || "";
+    }
+
     function formatarData(data) {
       if (!data || data.trim().toUpperCase() === "FRACIONADO DURANTE A SEMANA") {
         return data;
@@ -619,8 +623,9 @@
       const categoriasSet = new Set();
       
       dados.forEach(item => {
-        if (item.filial) {
-          unidadesSet.add(item.filial);
+        const filial = getFilial(item);
+        if (filial) {
+          unidadesSet.add(filial);
         }
         if (item.categoria) {
           categoriasSet.add(item.categoria);
@@ -666,7 +671,7 @@
       const categoriaSelecionada = document.getElementById('categoria').value;
       
       dadosFiltrados = dados.filter(item => {
-        const matchUnidade = !unidadeSelecionada || item.filial === unidadeSelecionada;
+        const matchUnidade = !unidadeSelecionada || getFilial(item) === unidadeSelecionada;
         const matchCategoria = !categoriaSelecionada || item.categoria === categoriaSelecionada;
         return matchUnidade && matchCategoria;
       });
@@ -758,14 +763,14 @@
       const detalhesHTML = comprasDoDia
         .map(compra => {
           const previsaoEntregaValue = 
-            (compra.categoria === "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)" && compra.filial === "RESTAURANTE PARADA BONITA")
+            (compra.categoria === "PROTEÍNAS (BOVINOS, SUÍNOS, AVES, QUEIJOS, EMBUTIDOS, CONGELADOS, PESCADOS)" && getFilial(compra) === "RESTAURANTE PARADA BONITA")
               ? "FRACIONADO DURANTE A SEMANA"
               : formatarData(compra.previsaoEntrega);
           return `
             <div>
               <p><strong>Data de Abertura:</strong> ${formatarData(compra.dataAbertura)}</p>
               <p><strong>Categoria:</strong> ${compra.categoria}</p>
-              <p><strong>Filial:</strong> ${compra.filial}</p>
+              <p><strong>Filial:</strong> ${getFilial(compra)}</p>
               <p><strong>Previsão de Entrega:</strong> ${previsaoEntregaValue}</p>
               <hr>
             </div>
