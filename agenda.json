@@ -11770,5 +11770,839 @@
         "categoria": "VAR. HIGIENE PESSOAL",
         "filial": "RVD BOMBOCADO DECIO L14",
         "previsaoEntrega": "05/10/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENI. CEZARINA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA OLHOS D AGUA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "PIRANHAS CONVENIÊNCIA",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "L3 BOMBOCADO DECIO",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L5",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L6",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L7",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L14",
+        "previsaoEntrega": "09/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENI. CEZARINA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA OLHOS D AGUA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "PIRANHAS CONVENIÊNCIA",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "L3 BOMBOCADO DECIO",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L5",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L6",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L7",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "PUDIM COPO",
+        "filial": "RVD BOMBOCADO DECIO L14",
+        "previsaoEntrega": "23/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA OLHOS D AGUA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "L3 BOMBOCADO DECIO",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE OLHOS D AGUA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA BURITI",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA CAMPINA VERDE",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA ARAPORA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA CENTRALINA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA ITUIUTABA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA OLHOS D AGUA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA PARADA BONITA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "CONVENIENCIA UBERLANDIA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "L3 BOMBOCADO DECIO",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE OLHOS D AGUA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO BALY",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "CONVENI. CEZARINA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "PIRANHAS CONVENIÊNCIA",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "GURUPI BR MANIA",
+        "previsaoEntrega": "17/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "17/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L5",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L6",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L7",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "03/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L14",
+        "previsaoEntrega": "10/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "CONVENI. CEZARINA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "PIRANHAS CONVENIÊNCIA",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "GURUPI BR MANIA",
+        "previsaoEntrega": "01/10/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "01/10/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L5",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L6",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L7",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "17/09/2026",
+        "categoria": "ENERGETICO RED BULL/ EXTRA POWER",
+        "filial": "RVD BOMBOCADO DECIO L14",
+        "previsaoEntrega": "24/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE OLHOS D AGUA",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "L3 BOMBOCADO DECIO",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L5",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L6",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L7",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "04/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L14",
+        "previsaoEntrega": "11/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE BARREIRAS",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE CAMPINA VERDE",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE CENTRALINA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE CEZARINA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE ITUIUTABA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE MINEIROS",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE OLHOS D AGUA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE PARADA BONITA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE PRESIDENTE VENCESLAU",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE UBERLANDIA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RESTAURANTE ARAPORA",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "L3 BOMBOCADO DECIO",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L5",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L6",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L7",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "18/09/2026",
+        "categoria": "DESTILADOS",
+        "filial": "RVD BOMBOCADO DECIO L14",
+        "previsaoEntrega": "25/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "CAFÉ 3 CORAÇÕES",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "12/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "CAFÉ 3 CORAÇÕES",
+        "filial": "RESTAURANTE BURITI",
+        "previsaoEntrega": "26/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "CAFÉ GRAN COFFEE",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "12/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "CAFÉ GRAN COFFEE",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "12/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "CAFÉ GRAN COFFEE",
+        "filial": "RESTAURANTE RIO VERDE",
+        "previsaoEntrega": "26/09/2026"
+    },
+    {
+        "dataAbertura": "16/09/2026",
+        "categoria": "CAFÉ GRAN COFFEE",
+        "filial": "CONVENIENCIA RIO VERDE",
+        "previsaoEntrega": "26/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "CAFÉ A3",
+        "filial": "GURUPI BR MANIA",
+        "previsaoEntrega": "12/09/2026"
+    },
+    {
+        "dataAbertura": "02/09/2026",
+        "categoria": "CAFÉ A3",
+        "filial": "RESTAURANTE GURUPI",
+        "previsaoEntrega": "26/09/2026"
     }
 ]
